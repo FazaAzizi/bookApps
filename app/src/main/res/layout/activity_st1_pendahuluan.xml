@@ -40,10 +40,10 @@
                     android:src="@drawable/st1pendahuluangmbr" />
 
                 <TextView
+                    android:justificationMode="inter_word"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
-                    android:gravity="center_horizontal"
                     android:text="@string/txtst1pendahuluan"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
             </LinearLayout>
