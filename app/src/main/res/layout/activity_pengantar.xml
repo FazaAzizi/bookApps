@@ -8,13 +8,9 @@
     tools:context=".PengantarActivity">
 
     <TextView
-        android:layout_width="258dp"
-        android:layout_height="659dp"
-        android:layout_gravity="center_horizontal"
-        android:capitalize="none"
-        android:text="@string/pengantar"
-        android:textAlignment="center"
-        android:textAllCaps="false"
-        android:visibility="visible" />
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:justificationMode="inter_word"
+        android:text="@string/pengantar" />
 
 </LinearLayout>

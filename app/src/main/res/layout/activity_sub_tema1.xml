@@ -156,6 +156,8 @@
                         android:layout_marginTop="16dp"
                         android:layout_marginRight="16dp"
                         android:layout_marginBottom="8dp"
+                        android:clickable="true"
+                        android:onClick="st1rangkumanmtd"
                         app:cardBackgroundColor="@color/colorPrimary"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"

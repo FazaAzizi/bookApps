@@ -8,8 +8,9 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".st1.St1PendahuluanActivity"></activity>
+        android:theme="@style/AppTheme">
+        <activity android:name=".st1.St1RangkumanActivity"></activity>
+        <activity android:name=".st1.St1PendahuluanActivity" />
         <activity android:name=".PengantarActivity" />
         <activity android:name=".SubTema1Activity" />
         <activity android:name=".MainActivity">

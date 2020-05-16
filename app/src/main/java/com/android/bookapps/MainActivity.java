@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Adapter;
 
+import com.android.bookapps.st1.St1PendahuluanActivity;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -24,6 +26,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void Subtema1(View view){
         Intent intent = new Intent(MainActivity.this, SubTema1Activity.class);
+        startActivity(intent);
+    }
+
+    public void pengantar(View view){
+        Intent intent = new Intent(MainActivity.this, PengantarActivity.class);
         startActivity(intent);
     }
 }
