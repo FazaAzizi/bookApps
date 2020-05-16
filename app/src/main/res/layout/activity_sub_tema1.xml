@@ -65,6 +65,19 @@
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center_vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal"
+                                android:text="Pendahuluan"/>
+
+                        </LinearLayout>
+
 
 
 
@@ -82,6 +95,18 @@
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center_vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal"
+                                android:text="Pengembangan"/>
+
+                        </LinearLayout>
 
 
 
@@ -106,6 +131,18 @@
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center_vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal"
+                                android:text="Aplikasi"/>
+
+                        </LinearLayout>
 
 
                     </androidx.cardview.widget.CardView>
@@ -122,6 +159,18 @@
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center_vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal"
+                                android:text="Pemantapan"/>
+
+                        </LinearLayout>
 
 
                     </androidx.cardview.widget.CardView>
@@ -140,22 +189,6 @@
                         android:layout_marginLeft="16dp"
                         android:layout_marginTop="16dp"
                         android:layout_marginRight="8dp"
-                        android:layout_marginBottom="8dp"
-                        app:cardBackgroundColor="@color/colorPrimary"
-                        app:cardCornerRadius="16dp"
-                        card_view:cardElevation="6dp"
-                        card_view:cardPreventCornerOverlap="false">
-
-
-                    </androidx.cardview.widget.CardView>
-
-                    <androidx.cardview.widget.CardView
-                        android:layout_width="150dp"
-                        android:layout_height="150dp"
-                        android:layout_gravity="center"
-                        android:layout_marginLeft="8dp"
-                        android:layout_marginTop="16dp"
-                        android:layout_marginRight="16dp"
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st1rangkumanmtd"
@@ -163,6 +196,46 @@
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center_vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal"
+                                android:text="Rangkuman"/>
+
+                        </LinearLayout>
+
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginBottom="8dp"
+                        app:cardBackgroundColor="@color/colorPrimary"
+                        app:cardCornerRadius="16dp"
+                        card_view:cardElevation="6dp"
+                        card_view:cardPreventCornerOverlap="false">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center_vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal"
+                                android:text="Penilaian"/>
+
+                        </LinearLayout>
 
 
                     </androidx.cardview.widget.CardView>

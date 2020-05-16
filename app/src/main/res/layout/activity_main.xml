@@ -34,6 +34,8 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="200dp"
+            android:clickable="true"
+            android:onClick="pengantar"
             android:layout_marginRight="16dp"
             android:layout_marginLeft="16dp"
             app:cardCornerRadius="30dp">
