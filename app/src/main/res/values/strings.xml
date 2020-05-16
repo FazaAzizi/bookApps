@@ -45,9 +45,29 @@
 	\n\n Gempa susulan memaksa paramedis memindahkan ruang perawatan di halaman, di tengah hujan yang kerap mengguyur. Jaringan listrik dan komunikasi terputus, warga juga kembali ke rumah. Terjadi juga isu tsunami yang dihembuskan pihak tidak bertanggungjawab sehingga mengungsi ke masjid, gereja dan rumah sakit dengan jumah pengungsi mencapai 200.000 orang.
     </string>
 
+    <string name="txtST1pendahuluan3">
+        Setelah membaca teks di atas, peserta didik mengetahui bahwa telah terjadi gempa bumi dengan kekuatan 6,3 Skala Richter pada tanggal 27 Mei 2006 di Yogyakarta. Tahukah kamu apa itu gempa bumi? Tuliskan pengertian gempa bumi pada kotak “Aku Tahu” di bawah ini (gunakan fasilitas internet yang ada atau pergilah ke perpustakaan untuk mengisi kotak “Aku Tahu”)
+    </string>
+
+    <string name="txtST1pendahuluan4">
+        Untuk lebih memahami apa itu gempa bumi, lakukan kegiatan berikut!
+    </string>
+
     <string name="txtST1kutipan1">
         Dikutip dari global.liputan6.com dengan sedikit perubahan.
     </string>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -132,6 +152,23 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="txtST1judulpengembangan2">
         Apa yang menyebabkan lempeng bumi bergerak?
     </string>
@@ -153,6 +190,26 @@
     <string name="txtst1pengembangan8">
          Aliran konveksi dalam air yang dipanaskan sama dengan aliran konveksi yang ada di dalam bumi. Inti bumi yang memiliki suhu 60000C memanaskan bagian bawah mantel bumi, sehingga massa jenis bagian bawah mantel bumi berkurang. Massa jenis bagian bawah mantel bumi berkurang menyebabkan bagian mantel tersebut akan bergerak naik ke permukaan mantel bumi. Mantel bumi bagian atas yang memiliki suhu rendah, memiliki massa jenis yang lebih besar sehingga mantel bumi bagian bagian atas akan turun kedasar mantel bumi. Bagian dasar mantel bumi selalu terkena panas yang bersumber dari inti bumi kembali, sehingga proses konveksi berlangsung terus menerus.
     </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -190,6 +247,49 @@
         Gambar 15. Zona penunjaman (subduksi) di Indonesia
         \n Sumber: geomagz.geologi.esdm.go.id
     </string>
+
+    <string name="txtST1pengembangan12">
+        Selain gempa bumi, lempeng bumi yang saling bertabrakan juga mengakibatkan terjadinya retakan di daratan yang berupa sesar. Adapun berdasar gaya yang menariknya, sesar dibedakan menjadi tiga, yaitu:
+        \n\n a. Sesar Normal atau Sesar Turun
+        Sesar normal adalah sesar yang terjadi karena salah satu blok sesar relatif turun dibanding sisi lain.
+    </string>
+
+    <string name="txtST1gambar16">
+        Gambar 16. Sesar normal/sesar turun
+        \n Sumber: geomaps.wr.usgs.gov
+    </string>
+
+    <string name="txtST1pengembangan13">
+        b. Sesar Terbalik atau Sesar Naik
+        Sesar terbalik adalah kebalikan dari sesar normal/sesar turun. Sesar terbalik adalah sesar yang terjadi akibat salah satu blok sesar realtif naik disbanding sisi yang lain.
+    </string>
+
+    <string name="txtST1gambar17">
+        Gambar 17. Sesar terbalik/sesar naik
+        \n Sumber: geomaps.wr.usgs.gov
+    </string>
+
+    <string name="txtST1pengembangan14">
+        c. Sesar Terbalik atau Sesar Naik
+        Sesar Geser terjadi karena dua blok bumi yang bergerak saling melewati pada permukaan bumi.
+    </string>
+
+    <string name="txtST1gambar18">
+        Gambar 18. Sesar geser
+        \n Sumber: geomaps.wr.usgs.gov
+    </string>
+
+    <string name="txtST1pengembangan15">
+        c. Transform
+        Gerak transform adalah pergerakan lempeng yang bergerak saling berpapasan satu sama lain. Contoh dari gerak transform adalah sesar San Andreas yang berada di California, Amerika Serikat dengan panjang 1300 km.
+    </string>
+
+    <string name="txtST1gambar19">
+        Gambar 19. Sesar San Andreas
+        \n Sumber: geomaps.wr.usgs.gov
+    </string>
+
+
 
 
 
