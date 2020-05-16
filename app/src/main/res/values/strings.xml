@@ -8,7 +8,7 @@
         \n Yogyakarta, Maret 2020
         \n Penyusun</string>
 
-    <string name="txtst1">
+    <string name="txtST1">
     Tujuan Pembelajaran	:
     \n Melalui kegiatan disuksi, peserta didik dapat
     \n Menjelaskan pengertian gempa bumi dengan benar
@@ -20,54 +20,251 @@
     </string>
 
 
-    <string name="txtst1pendahuluan2">
-        Liputan6.com, Jakarta – Lepas dini hari di Yogyakarta, Sabtu Wage 27 Mei 2006. Saat jarum jam menunjuk ke angka 05.53 WIB, bumi berguncang hebat. Gempa “hanya” 57 detik, namun dampaknya luar biasa.
-    \n “Aku terjatuh dari tempat tidur akibat guncangan dahsyat. Furnitur berjatuhan, puing bangunan mulai ambrol di kamar hotel tempatku berada. Orang-orang berlarian panik, sebagian mengandalkan sprei untuk menutupi tubuh”, kata Brook Weisman-Ross, saksi gempa seperti yang dikutip oleh BBC.Menurut Badan Survei Geologi Amerika Serikat (USGS), magnitudenya 6,3 Skala Richter dalam kedalaman 7,5 km. Gempa terjadi dideket permukaan disepanjang patahan di Lempeng Sunda, sekitar 20 km selatan tenggara Yogyakarta. Gempa tidak sampai memicu terjadinya Tsunami.
-	\n Akibatnya, rumah-rumah di wilayah selatan rata dengan tanah, memerangkap orang-orang, terjadi trauma pada anak-anak dan lansia yang ada didalamnya. Banyak manusia bergelimpangan dipinggir jalan. Korban terbanyak jatuh diwilayah Bantul. Pada hari terjadinya gempa, setidaknya 3.000 nyawa melayang di seluruh Daerah Istimewa Yogyakarta dari total 6.234 nyawa yang melayang.
-	\n Gempa susulan memaksa paramedis memindahkan ruang perawatan di halaman, di tengah hujan yang kerap mengguyur. Jaringan listrik dan komunikasi terputus, warga juga kembali ke rumah. Terjadi juga isu tsunami yang dihembuskan pihak tidak bertanggungjawab sehingga mengungsi ke masjid, gereja dan rumah sakit dengan jumah pengungsi mencapai 200.000 orang.
-    \n Dikutip dari global.liputan6.com dengan sedikit perubahan.
+
+
+
+
+
+
+
+    <string name="txtST1judul">
+        Bacalah teks berikut dengan cermat!
+        \n 27 Mei 2006
+        \n Gempa Mengepung Yogyakarta
     </string>
 
-    <string name="txtst1pendahuluan1">
+    <string name="txtST1gambar1">
     Gambar 1. Kerusakan akibat gempa bumi 27 Mei 2006
     \n Sumber gambar: ernestwidtar.wordpress.com
     </string>
 
-    <string name="txtst1pengembangan1">
+    <string name="txtST1pendahuluan2">
+        Liputan6.com, Jakarta – Lepas dini hari di Yogyakarta, Sabtu Wage 27 Mei 2006. Saat jarum jam menunjuk ke angka 05.53 WIB, bumi berguncang hebat. Gempa “hanya” 57 detik, namun dampaknya luar biasa.
+    \n “Aku terjatuh dari tempat tidur akibat guncangan dahsyat. Furnitur berjatuhan, puing bangunan mulai ambrol di kamar hotel tempatku berada. Orang-orang berlarian panik, sebagian mengandalkan sprei untuk menutupi tubuh”, kata Brook Weisman-Ross, saksi gempa seperti yang dikutip oleh BBC.Menurut Badan Survei Geologi Amerika Serikat (USGS), magnitudenya 6,3 Skala Richter dalam kedalaman 7,5 km. Gempa terjadi dideket permukaan disepanjang patahan di Lempeng Sunda, sekitar 20 km selatan tenggara Yogyakarta. Gempa tidak sampai memicu terjadinya Tsunami.
+	\n\n Akibatnya, rumah-rumah di wilayah selatan rata dengan tanah, memerangkap orang-orang, terjadi trauma pada anak-anak dan lansia yang ada didalamnya. Banyak manusia bergelimpangan dipinggir jalan. Korban terbanyak jatuh diwilayah Bantul. Pada hari terjadinya gempa, setidaknya 3.000 nyawa melayang di seluruh Daerah Istimewa Yogyakarta dari total 6.234 nyawa yang melayang.
+	\n\n Gempa susulan memaksa paramedis memindahkan ruang perawatan di halaman, di tengah hujan yang kerap mengguyur. Jaringan listrik dan komunikasi terputus, warga juga kembali ke rumah. Terjadi juga isu tsunami yang dihembuskan pihak tidak bertanggungjawab sehingga mengungsi ke masjid, gereja dan rumah sakit dengan jumah pengungsi mencapai 200.000 orang.
+    </string>
+
+    <string name="txtST1kutipan1">
+        Dikutip dari global.liputan6.com dengan sedikit perubahan.
+    </string>
+
+
+
+
+
+
+
+
+    <string name="txtST1judulpengembangan1">
+        Apa itu Gempa Bumi?
+    </string>
+
+    <string name="txtST1pengembangan1">
         Ketika membengkokkan ranting secara perlahan, kamu mengetahui bahwa ranting dapat kembali lagi ke bentuk semula. Tetapi ketika kamu mematahkan ranting hingga patah, tanganmu akan merasakan adanya getaran.
-        \n Kegiatan “Aku Mencoba” yang telah peserta didik lakukan memberi gambaran terjadinya gempa bumi. Gempa bumi terjadi ketika ada pelepasan energi secara tiba-tiba yang menyebabkan tanah berguncang dan bergetar. Pelepasan energi tersebut muncul sebagai akibat dari tumbukan antar lempeng bumi atau pergerakan lempeng bumi. Gempa bumi tidak hanya disebabkan oleh tumbukan lempeng bumi, tetapi juga dapat disebabkan oleh aktivitas gunung api dan adanya reruntuhan bangunan. Kekuatan gempa bumi akibat aktivitas gunung api dan reruntuhan bangunan relatif kecil, sehingga kita akan memutuskan pembahasan mengenai gempa bumi yang disebabkan karena tumbukan antar lempeng bumi.
+        \n\n Kegiatan “Aku Mencoba” yang telah peserta didik lakukan memberi gambaran terjadinya gempa bumi. Gempa bumi terjadi ketika ada pelepasan energi secara tiba-tiba yang menyebabkan tanah berguncang dan bergetar. Pelepasan energi tersebut muncul sebagai akibat dari tumbukan antar lempeng bumi atau pergerakan lempeng bumi. Gempa bumi tidak hanya disebabkan oleh tumbukan lempeng bumi, tetapi juga dapat disebabkan oleh aktivitas gunung api dan adanya reruntuhan bangunan. Kekuatan gempa bumi akibat aktivitas gunung api dan reruntuhan bangunan relatif kecil, sehingga kita akan memutuskan pembahasan mengenai gempa bumi yang disebabkan karena tumbukan antar lempeng bumi.
     </string>
-    <string name="txtst1pengembangan2">
+
+    <string name="txtST1gambar3">
+        Gambar 3. Lapisan Bumi
+        \n Sumber : Wahono Widodo 2017
+    </string>
+
+    <string name="txtST1pengembangan2">
         Inti dalam bumi memiliki jari-jari 1.300 km yang bersifat padat dikelilingi oleh inti luar bumi yang bersifat cair setebal 2.200 km. Lapisan bumi yang paling tebal adalah bagian mantel (selubung bumi). Lapisan di atas mantel bumi adalah karak bumi dengan ketebalan beberapa puluh kilometer dan digunakan sebagai tempat hidup manusia, hewan dan tumbuhan. Bagian permukaan bumi yang berupa cairan membentuk hidrosfer. Atmosfer membentang di atas kerak bumi dan hidrosfer untuk melindungi bumi. Bagian paling luar dari bumi adalah magnetosfer yang membentang ribuan kilometer ke angkasa luar.
-	\n Energi gempa yang sampai pada permukaan bumi, ternyata berasal dari bagian dalam bumi. Bumi memiliki lapisan-lapisan tertentu dengan masing-masing ciri lapisan yang berbeda. Bagian dalam bumi terdiri dari mantel bumi yang mengelilingi inti bumi. Inti bumi sendiri terdiri dari dua bagian, inti bumi luar dan inti bumi dalam. Sedangkan pada bagian permukaan bumi terdapat kerak bumi yang terdiri dari lempeng benua dan lempeng samudera.
+	\n\n Energi gempa yang sampai pada permukaan bumi, ternyata berasal dari bagian dalam bumi. Bumi memiliki lapisan-lapisan tertentu dengan masing-masing ciri lapisan yang berbeda. Bagian dalam bumi terdiri dari mantel bumi yang mengelilingi inti bumi. Inti bumi sendiri terdiri dari dua bagian, inti bumi luar dan inti bumi dalam. Sedangkan pada bagian permukaan bumi terdapat kerak bumi yang terdiri dari lempeng benua dan lempeng samudera.
     </string>
-    <string name="txtst1pengembangan3">
+
+    <string name="txtST1gambar4">
+        Gambar 4. Lempeng Benua dan Lempeng Samudera
+        \n Sumber : Chaisson, 2014
+    </string>
+
+    <string name="txtST1pengembangan3">
         Berdasar strukturnya, bumi dibagi menjadi tiga bagian, litosfer, astenosfer dan mesosfer. Lapisan mantel bumi bagian atas bersama-sama dengan kerak bumi membentuk litosfer, yang bisa diartikan sebagai lapisan batuan yang ada pada bumi (lapisan padat pada bumi). Litosfer memiliki suhu yang dingin dan bersifat kaku. Astenosfer berada di bawah litosfer, pada kedalaman kira-kira 700 km. Astenosfer bersifat plastis sehingga memungkinkan litosfer yang berada di atasnya dapat bergerak. Astenosfer mengalir karena adanya aliran konveksi yang terjadi sepanjang waktu. Mesosfer terdiri dari batuan padat (besi dan silikat magnesium). Mesosfer terdiri dari sebagian mantel bumi hingga inti bumi.
     </string>
-    <string name="txtst1pengembangan4">
+
+    <string name="txtST1gambar5">
+        Gambar 5. Geometri lapisan bumi
+        \n Sumber: Direktorat Vulkanologi dan Mitigasi Bencana
     </string>
-    <string name="txtst1pengembangan5">
+
+    <string name="txtST1gambar7">
+        Gambar 7. Pergerakan lempeng benua di dunia. Arah anak panah menunjukkan arah pergerakan lempeng.
+        \n Sumber: Wahono Widodo, 2017
     </string>
-    <string name="txtst1pengembangan6">
+
+    <string name="txtST1pengembangan4">
+        Aktivitas pergerakan lempeng yang tergambar pada peta di atas dapat menyebabkan lempeng benua saling bertabrakan maupun saling menjauh.
+        \n\n Pergerakan lempeng bumi dapat dijelaskan dengan teori tektonik lempeng. Teori tektonik lempeng menjelaskan dinamika bumi yang mengakibatkan adanya jalur pegunungan dan terjadinya gempa bumi. Dalam teori ini, kerak bumi pecah menjadi beberapa bagian kecil yang disebut lempeng kerak bumi. Litosfer yang terdiri dari kerak bumi dan bagian atas mantel bumi dapat bergerak karena berada di atas cairan astenosfer yang plastis. Lempeng kerak bumi dapat terdiri dari lempeng benua dan lempeng samudera atau salah satunya saja.
+        \n\n Teori tektonik lempeng didasari oleh teori pergerakan benua (continental drift) dan pemekaran dasar samudera (seafloor spreanding). Menurut Alfred Lothar Wegener (1880-1930), semua benua di dunia pada awalnya adalah bagian yang menjadi satu sebagian daratan sangat luas yang disebut Pangeae. Sekitar 200 juta tahun yang lalu terjadi pergerakan benua sehingga masing-masing benua berada pada posisinya sekarang.
     </string>
-    <string name="txtst1pengembangan7">
+
+    <string name="txtST1gambar8">
+        Gambar 8. Pangeae dan perkiraan pergerakan lempeng benua oleh ahli geologi. 200 juta tahun yang lalu (a) benua di bumi menjadi satu daratan besar. Posisi masing-masing benua saat ini ditunjukkan oleh gambar (d).
+        \n Sumber: Chaisson, 2014
     </string>
+
+    <string name="txtST1pengembangan5">
+        Teori yang dikemukakan oleh Alfred Wegener didukung oleh beberapa fakta seperti adanya persamaan garis kontur pantai di sebelah timur benua Amerika Utara dan Amerika Selatan dengan garis kontur pantai di sebelah barat Eropa dan Afrika. Selain bukti adanya persamaan garis kontur pantai di beberapa benua yang terpisah, penemuan fosil juga menjadi bukti bahwa benua pernah menjadi satu dalam satu daratan. Beberapa penemuan fosil yang ditemukan dibeberapa benua adalah sebagai berikut.
+        \n 1. Fosil Cynognathus, yang hidup 240 juta tahun yang lalu ditemukan di benua Amerika Selatan dan Benua Afrika.
+        \n 2. Fosil Mesosaurus yang hidup sekitar 260 juta tahun yang lalu ditemukan di benua Amerika Selatan dan benua Afrika. Fosil Mesosaurus berasal dari reptile yang hidup di air tawar dan sungai.
+        \n 3. Fosil Lystrosaurus, reptil yang hidup di daratan sekitar 240 juta tahun yang lalu, ditemukan dibenua Afrika, India dan Antartika.
+        \n 4. Fosil Glassopteris, tanaman yang hidup 260 juta tahun yang lalu ditemukan di benua Afrika, Amerika Selatan, India, Australia dan Antartika.
+
+        \n\n Alfred Wegener beranggapan bahwa fosil-fosil tersebut tidak mungkin berimigrasi dari satu benua lainnya. Hal ini mendorong Alfred Wegner untuk berpikir bahwa benua-benua tersebut dulu berada dalam satu tempat yang sama, disebut Pangeae. Hanya saja, pada saat itu, teori yang dikemukakan oleh Alfred Wegener tidak dapat menjelaskan bagaimana benua bergerak dan menjauh. Sehingga pada saat itu teori Alfred Wegener ditolak oleh ahli kebumian.
+    </string>
+
+    <string name="txtST1gambar9">
+        Gambar 9. Persebaran fosil dibeberapa benua
+        \n Sumber: maps.unomaha.edu
+    </string>
+
+    <string name="txtST1pengembangan6">
+        Tahun 1960, seorang ilmuan bernama Harry Hess (1906-1969) mengemukakan teori pemekaran dasar samudera (Seafloor Spreading) dalam tulisannya “Essay in geopoetry describing evidence for seafloor spreading”. Teori pemekaran dasar samudera meganggap bahwa kulit bumi di dasar samudera Atlantik mengalami pemekaran yang diakibatkan oleh gaya tarikan yang digerakkan oleh arus konveksi yang berada dibagian mantel bumi (astenosfer). Akibat pemekaran yang terjadi, magma yang berasal dari astenosfer kemudian naik dan membeku serta membentuk lantai samudera yang baru. Bukti yang memperkuat teori ini adalah ditemukannya rekahan yang memanjang di tengah Samudera Atlantik antara benua Amerika Selatan dan Afrika. Bukti lain dari teori seafloor spreading adalah hasil penelitian usia batuan dasar laut dengan kapal Glomar Challenger (1968) yang mengatakan bahwa usia batuan pada punggung kerak samudera lebih muda daripada usia batuan di dasar kerak samudera. Hal tersebut menunjukkan bahwa batuan di punggung kerak samudera terbentuk sebagai akibat dari seafloor spreading.
+    </string>
+
+    <string name="txtST1gambar10">
+       Gambar 10. Ilustrasi seafloor spreading
+        \n Sumber: Chaisson, 2014
+    </string>
+
+
+
+
+    <string name="txtST1judulpengembangan2">
+        Apa yang menyebabkan lempeng bumi bergerak?
+    </string>
+
+    <string name="txtST1gambar11">
+        Gambar 11. Arus konveksi dalam aliran air
+        \n Sumber:
+    </string>
+
+    <string name="txtST1pengembangan7">
+        Jika merebus air dengan panci, kamu melihat terjadi perputaran antara air yang berada di bagian bawah dengan air yang berada dibagian atas panci. Mengapa air dapat bergerak demikian? Hal tersebut disebabkan adanya aliran konveksi di dalam air. Konveksi adalah perpindahan panas melalui suatu aliran. Ketika api telah memanaskan air bagian bawah, air panas di bagian bawah panci akan memiliki massa jenis yang lebih kecil, air panas dibagian bawah panci kemudian naik ke permukaan panci. Air dingin yang berada dipermukaan panci memiliki massa jenis yang lebih besar, sehingga air dingin di permukaan panci akan turun ke dasar panci. Kejadian tersebut terus berlangsung selama air dipanaskan
+    </string>
+
+    <string name="txtST1gambar12">
+        Gambar 12. Ilustrasi arus konveksi di dalam bumi
+        \n Sumber: Chaisson, 2014
+    </string>
+
     <string name="txtst1pengembangan8">
+         Aliran konveksi dalam air yang dipanaskan sama dengan aliran konveksi yang ada di dalam bumi. Inti bumi yang memiliki suhu 60000C memanaskan bagian bawah mantel bumi, sehingga massa jenis bagian bawah mantel bumi berkurang. Massa jenis bagian bawah mantel bumi berkurang menyebabkan bagian mantel tersebut akan bergerak naik ke permukaan mantel bumi. Mantel bumi bagian atas yang memiliki suhu rendah, memiliki massa jenis yang lebih besar sehingga mantel bumi bagian bagian atas akan turun kedasar mantel bumi. Bagian dasar mantel bumi selalu terkena panas yang bersumber dari inti bumi kembali, sehingga proses konveksi berlangsung terus menerus.
     </string>
+
+
+
+
+    <string name="txtST1judulpengembangan3">
+          Bagaimana gerakan lempeng bumi?
+    </string>
+
+    <string name="txtST1pengembangan9">
+        Kamu telah mengetahui bahwa lempeng bumi ternyata dapat bergerak. Apa akibatnya jika lempeng bumi bergerak?
+        \n\n 1. Divergen
+        \n Pergerakan divergen terjadi ketika dua lempeng samudera saling menjauh. Pergerakan ini menyebabkan magma dari dalam bumi naik ke atas permukaan, sehingga terbentuk pegunungan tengah samudera. Contohnya adalah pegunungan tengah samudera yang terbentuk di Samudera Atlantik
+    </string>
+
+    <string name="txtST1gambar13">
+        Gambar 13. Pergerakan Divergen Lempeng Bumi
+        \n Sumber: mycyberwall.co.za
+    </string>
+
+    <string name="txtST1pengembangan10">
+        \n\n 2. Konvergen
+        \n Konvergen adalah gerakan saling bertabrakan antara lempeng bumi, yang menyebabkan salah satu lempeng menyusup ke perut bumi (subduksi). Lempeng yang memiliki berat jenis yang lebih besar akan menyusup ke dalam perut bumi
+    </string>
+
+    <string name="txtST1gambar14">
+        Gambar 14. Pergerakan konvergen lempeng bumi
+        \n Sumber: ariebasofi.blogspot.co.id
+    </string>
+
+    <string name="txtST1pengembangan11">
+        Zona subduksi yang terdapat di Samudera Indonesia adalah hasil interaksi antara lempeng Indo-Australia yang bergerak ke utara dengan lempeng Eurasia yang bergerak ke selatan. Subduksi lempeng Indo-Australia dan lempeng Eurasia menghasilkan palung laut yang berhadapan langsung dengan pantai selatan Jawa, di sebut palung Jawa.
+    </string>
+
+    <string name="txtST1gambar15">
+        Gambar 15. Zona penunjaman (subduksi) di Indonesia
+        \n Sumber: geomagz.geologi.esdm.go.id
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     <string name="txtst1rangkuman">
         1. Gempa bumi adalah berguncangnya bumi yang disebabkan oleh pergerakan lempeng bumi, aktivitas gunung api atau runtuhnya bangunan.
         \n 2. Bagian permukaan bumi tersusun atas kerak bumi yang terdiri dari lempeng benua dan lempeng samudera. Mantel bumi yang mengelilingi inti bumi adalah penyusun bagian dalam bumi.
-        \n 3. Berdasar penyusunannya, bumi terdiri atas lapisan litosfer, astenosfer dan mesosfer.
-        \n 4. Litosfer adalah lapisan paling atas bumi yang bersifat kaku. Astenosfer berada di bawah litosfer dan bersifat plastis, sehingga memungkinkan litosfer untuk bergerak. Mesosfer terdiri dari sebagian mantel bumi hingga inti bumi.
-        \n 5. Pergerakan litosfer disebabkan adanya aliran konveksi di dalam atmosfer.
-        \n 6. Teori tektonik lempeng menjelaskan pergerakan lempeng bumi yang mengakibatkan adanya jalur pegunungan dan gempa bumi.
-        \n 7. Teori tektonik lempeng didasari oleh teori pergerakan benua (continental drift) dan teori pemekaran dasar samudera (seafloor spreading)
-        \n 8. Pergerakan lempeng bumi terdiri dari 3 jenis, yaitu konvergen, divergen dan transform.
-        \n 9. Akibat dari pergerakan lempeng bumi adalah terbentuknya sesar/patahan.
-        \n 10. Sesar yang terbentuk diantaranya adalah sesar normal, sesar terbalik dan sesar geser.
-        \n 11. Indonesia terletak dipertemuan tiga lempeng, yaitu lempeng Eurasia, lempeng indo Australia dan lempeng pasifik. Akibatnya, Indonesia menjadi Negara yang rawan bencana geologi.
-
+    \n 3. Berdasar penyusunannya, bumi terdiri atas lapisan litosfer, astenosfer dan mesosfer.
+    \n 4. Litosfer adalah lapisan paling atas bumi yang bersifat kaku. Astenosfer berada di bawah litosfer dan bersifat plastis, sehingga memungkinkan litosfer untuk bergerak. Mesosfer terdiri dari sebagian mantel bumi hingga inti bumi.
+    \n 5. Pergerakan litosfer disebabkan adanya aliran konveksi di dalam atmosfer.
+    \n 6. Teori tektonik lempeng menjelaskan pergerakan lempeng bumi yang mengakibatkan adanya jalur pegunungan dan gempa bumi.
+    \n 7. Teori tektonik lempeng didasari oleh teori pergerakan benua (continental drift) dan teori pemekaran dasar samudera (seafloor spreading)
+    \n 8. Pergerakan lempeng bumi terdiri dari 3 jenis, yaitu konvergen, divergen dan transform.
+    \n 9. Akibat dari pergerakan lempeng bumi adalah terbentuknya sesar/patahan.
+    \n 10. Sesar yang terbentuk diantaranya adalah sesar normal, sesar terbalik dan sesar geser.
+    \n 11. Indonesia terletak dipertemuan tiga lempeng, yaitu lempeng Eurasia, lempeng indo Australia dan lempeng pasifik. Akibatnya, Indonesia menjadi Negara yang rawan bencana geologi.
     </string>
+
+
+
+
+
+
 
 </resources>
