@@ -18,15 +18,16 @@
         android:textSize="24sp" />
 
     <TextView
+        android:justificationMode="inter_word"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:text="dnjan;fgkne;fns;gnse;fsfjaodjiawiojdaoidhayufgawwahdiaghiafhauiwdhaiudhawuidhaiudhaisuhduiafhwaihfushafiwhafuihsufahiwdhai"
-        android:textSize="24sp" />
+        android:text="@string/txtst1"
+        android:textSize="16sp" />
+
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="50dp"
         android:layout_marginBottom="-16dp"
         app:cardCornerRadius="70dp">
 
