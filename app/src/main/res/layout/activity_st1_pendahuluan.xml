@@ -77,7 +77,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST1pendahuluan2"/>
+                    android:text="@string/txtST1pendahuluan3"/>
 
                 <TextView
                     android:gravity="center_horizontal"
@@ -93,11 +93,19 @@
                     android:layout_height="200dp"
                     android:scaleType="fitCenter"
                     android:src="@drawable/st1gambarkuning1" />
+                <TextView
+                    android:justificationMode="inter_word"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    android:textColor="@android:color/black"
+                    android:text="@string/txtST1pendahuluan4"/>
 
-
-
-
-
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/st1gambarkuning2" />
 
             </LinearLayout>
         </ScrollView>

@@ -45,11 +45,6 @@
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan1"/>
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1pendahuluangmbr" />
 
                 <TextView
                     android:gravity="center_horizontal"
@@ -68,11 +63,7 @@
                     android:text="@string/txtST1pengembangan2"/>
 
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1pendahuluangmbr" />
+
 
                 <TextView
                     android:gravity="center_horizontal"
@@ -90,11 +81,7 @@
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan3"/>
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1pendahuluangmbr" />
+
 
                 <TextView
                     android:gravity="center_horizontal"
