@@ -42,7 +42,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:scaleType="fitCenter"
-                    android:src="@drawable/st1pendahuluangmbr" />
+                    android:src="@drawable/st1gambar1" />
 
                 <TextView
                 android:gravity="center_horizontal"
@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:textColor="@android:color/black"
-                android:text="@string/txtst1pendahuluan1"/>
+                android:text="@string/txtST1gambar1"/>
 
                 <TextView
                     android:justificationMode="inter_word"
@@ -58,7 +58,47 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtst1pendahuluan2"/>
+                    android:text="@string/txtST1pendahuluan2"/>
+
+
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    android:text="Aku Mencoba"
+                    android:textSize="24sp"
+                    android:textColor="@android:color/black"/>
+
+
+                <TextView
+                    android:justificationMode="inter_word"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    android:textColor="@android:color/black"
+                    android:text="@string/txtST1pendahuluan2"/>
+
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    android:text="Aku Tahu"
+                    android:textSize="24sp"
+                    android:textColor="@android:color/black"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/st1gambarkuning1" />
+
+
+
+
+
+
             </LinearLayout>
         </ScrollView>
 

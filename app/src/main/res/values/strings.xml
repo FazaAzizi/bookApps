@@ -21,12 +21,6 @@
 
 
 
-
-
-
-
-
-
     <string name="txtST1judul">
         Bacalah teks berikut dengan cermat!
         \n 27 Mei 2006
@@ -187,7 +181,7 @@
         \n Sumber: Chaisson, 2014
     </string>
 
-    <string name="txtst1pengembangan8">
+    <string name="txtST1pengembangan8">
          Aliran konveksi dalam air yang dipanaskan sama dengan aliran konveksi yang ada di dalam bumi. Inti bumi yang memiliki suhu 60000C memanaskan bagian bawah mantel bumi, sehingga massa jenis bagian bawah mantel bumi berkurang. Massa jenis bagian bawah mantel bumi berkurang menyebabkan bagian mantel tersebut akan bergerak naik ke permukaan mantel bumi. Mantel bumi bagian atas yang memiliki suhu rendah, memiliki massa jenis yang lebih besar sehingga mantel bumi bagian bagian atas akan turun kedasar mantel bumi. Bagian dasar mantel bumi selalu terkena panas yang bersumber dari inti bumi kembali, sehingga proses konveksi berlangsung terus menerus.
     </string>
 
