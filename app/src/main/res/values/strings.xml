@@ -320,14 +320,192 @@
 
 
 
+    <string name="txtST2">
+        Tujuan Pembelajaran	:
+        \n Menjelaskan cara kerja alat ukur kekuatan gempa bumi (seismograf) dengan benar
+        \n Membedakan karakteristik gelombang badan dan gelombang permukaan dengan benar
+
+    </string>
+
+    <string name="txtST2pendahuluan1">
+        Bacalah teks berikut dengan cermat!
+    </string>
+
+    <string name="txtST2gambar38">
+        Gambar 38. Zhang Heng (78-139 SM)
+        \n Sumber: republika.co.id
+    </string>
+
+    <string name="txtST2pendahuluan2">
+        Zhang Heng, Sang Penemu Seismograf
+	    \n Perjalanan awal pemahaman orang mengenai seismograf tidak terlepas dari kontribusi Zhang Heng (78-139 SM). Zhang Heng menemukan seismograf pada tahun 132 M yang kemudian diberi nama Houfeng Didong Yi. Alat ini digunakan pada tahun 143 di daerah Gansu.
+	    \n Wilayah Dinasti Han Timur, sering terjadi gempa bumi. Awalnya mereka mengira gempa bumi adalah akibat marahnya dewa-dewa. Zang Heng berpikiran bahwa gempa bumi adalah semacam bencana alam, lalu berdasarkan pengamatanya terhadap gempa bumi, pada tahun 132, menciptakan “seismoskop”. Alat ini adalah alat pengamat gempa  bumi pertama di dunia. Setelah selesai dibuat, alat ini diletakkan pada punggung di Louyang.
+        \n \n Suatu hari di tahun 138 bulan kedua, mulut naga yang menghadap ke barat pada seismoskop ini mengeluarkan bola perunggu yang kemudian jatuh ke atas mulut katak. Hal ini menunjukkan bahwa di daerah barat daya terjadi gempa bumi. Tetapi waktu itu di Louyang sama sekali tidak terasa gempa, sehingga semua orang berkata bahwa seismokop Zhang Heng tidak akurat. Setelah beberapa hari, ada orang melapor dari wilayah tenggara Gansu, di sana beberapa hari yang lalu terjadi gempa yang besar, sehingga publik percaya kepada sismokop Zhang Heng.
+    </string>
 
 
 
 
 
 
+    <string name="txtST2gambar39">
+        Gambar Sismoskop Zhang Heng
+        \n Sumber: kumparan.com
+    </string>
+
+    <string name="txtST2pengembangan1">
+        Ketika terjadi gempa bumi, ilmuan dapat mengetahui besarnya kekuatan/energi gempa bumi dengan suatu alat yang disebut seismograf.  Data hasil catatan seismograf dalam bentuk grafik disebut seismograf.
+    </string>
+
+    <string name="txtST2gambar22">
+        Gambar 22. Seismograf dan Grafik Gelombang Seismik
+        Sumber: Kusky, 2008
+    </string>
 
 
+
+    <string name="txtST2pengembangan2">
+        Seismograf terdiri dari gantungan pemberat dengan pensil diujungnya. Ketika gempa bumi terjadi, pensil akan ikut bergetar dan merekam getaran yang berupa gelombang dalam sebuah kertas. Seismograf kemudian mencatat data berupa grafik gelombang gempa (gelombang seismik). Jika kalian melihat grafik pada gambar di atas, gelombang seismik yang tercatat oleh seismograf terdiri dari empat jenis gelombang, yaitu gelombang primer (gelombang p), gelombang sekunder (gelombang s), gelombang love dan gelombang rayleigh.
+    </string>
+
+    <string name="txtST2pengembangan3">
+        Tahukah kamu apa yang dimaksud dengan gelombang? Gelombang adalah getaran yang merambat. Gelombang seismik yang menjalar ketika terjadi gempa bumi terdiri dari gelombang badan dan gelombang permukaan. Gelombang badan adalah gelombang yang merambat di dalam perut bumi dan efek kerusakannya cukup kecil. Gelombang badan terdiri dari gelombang primer dan gelombang sekunder.
+    </string>
+
+
+    <string name="txtST2gambar27">
+        Gambar 27. Perambatan gelombang seismik di dalam bumi
+        \n Sumber: Ammon, 2005
+    </string>
+    <string name="txtST2pengembangan4">
+        1. Gelombang Primer (Gelombang P)
+        \n Gelombang primer merupakan gelombang yang merambat di dalam bumi yang memiliki kecepatan rambat paling cepat diantara gelombang seismik lain. Gelombang ini bisa melewati medium padat, cair, maupun gas. Gelombang primer merambat dengan menggetarkan bantuan yang ada di dalam bumi searah dengan arah getran yang dimiliki gelombang primer. Oleh karena itu, gelombang primer digolongkan dalam gelombang longitudinal, yang memeiliki arah getaran dan arah rambatan yang sama.
+    </string>
+
+    <string name="txtST2gambar28">
+        Gambar 28. Gelombang Primer
+        \n Sumber: cyberphysics.co.uk
+
+    </string>
+
+    <string name="txtST2pengembangan5">
+        2. Gelombang Sekunder (Gelombang S)
+	    \n Gelombang sekunder adalah salah satu gelombang yang memiliki arah getaran tegak lurus dengan arah rambatnya. Oleh karena itu, gelombang sekunder termasuk dalam gelombang transversal. Gelombang ini tidak dapat merambat pada fluida (medium cair), sehingga tidak dapat dideteksi pada inti bumi bagain luar.
+    </string>
+
+    <string name="txtST2gambar29">
+        Gambar 29. Gelombang Skunder
+        Sumber: cyberphysics.co.uk
+    </string>
+
+    <string name="txtST2pengembangan6">
+        Ketika gempa bumi terjadi, getaran yang sebagian besar kamu rasakan adalah getaran yang berasal dari gelombang permukaan. Gelombang permukaan adalah gelombang primer dan gelombang sekunder yang telah mencapai permukaan bumi. Gelombang permukaan dapat diandaikan seperti gelombang air yang menjalar di atas permukaan bumi.  Gelombang permukaan memiliki waktu penjalaran lebih lambat daripada gelombang badan. Menurut teori ini, gelombang permukaan lebih berpotensi menimbulkan kerusakan di muka bumi daripada gelombang badan. Gelombang permukaan terdiri atas dua tipe, yaitu Gelombang love dan gelombang Rayleigh.
+    </string>
+
+    <string name="txtST2pengembangan7">
+        1. Gelombang Love
+	    \n Gelombang love diperkenalkan oleh Augustus Edward Hough Love, matematikawan Inggris pada tahun 1991. Gelombang love memiliki arah getaran yang tegak lurus dengan arah rambatannya. Oleh karena itu, gelombang love merupakan gelombang transversal.
+    </string>
+    <string name="txtST2gambar30">
+        Gambar 30. A. E. H. Love (1863-1940)
+        \n Sumber: seismo.barkley.com
+    </string>
+
+    <string name="txtST2gambar31">
+        Gambar 31. Gelombang Love
+        \n Sumber: shakingearth.blogspot.com
+    </string>
+
+    <string name="txtST2pengembangan8">
+        2. Gelombang Rayleigh
+	    \n Gelombang Rayleigh diperkenalkan oleh Lord Rayleigh, fisikawan Inggris pada tahun 1815. Gerakan dari gelombang Rayleigh adalah groundroll, yaitu tanah memutar ke belakang tetapi secara gelombang memutar ke depan. Ketika terjadi gempa bumi, gelombang Rayleigh terlihat pada permukaan tanah yang bergerak ke atas dan ke bawah. Waktu perambatan gelombang Rayleigh lebih rendah daripada gelombang Love.
+    </string>
+
+    <string name="txtST2gambar33a">
+        Gambar 33. Lord Rayleigh (1842-1919)
+        \n Sumber: nobelprize.com
+
+    </string>
+    <string name="txtST2gambar33b">
+        Gambar 33. Gelombang Rayleigh
+        \n Sumber: id.wordpress.com
+
+    </string>
+
+    <string name="txtST2pengembangan9">
+    Peserta didik telah mengetahui perbedaan gelombang badan dan gelombang permukaan. Cobalah untuk memperhatikan kembali gambar gelombang permukaan! Gambar tersebut menunjukkan bahwa amplitudo gelombang permukaan lebih besar daripada gelombang badan. Oleh karena itu, gelombang permukaan lebih banyak kita rasakan ketika terjadi gempa bumi.
+    </string>
+
+    <string name="txtST2pengembangan10">
+        Gelombang seismik yang pertama kali dicatat oleh seismograf adalah gelombang primer. Gelombang primer merupakan gelombang longitudinal yang merambat melalui batuan dengan merenggangkan dan merapatkan batuan yang dilaluinya. Gelombang selanjutnya yang terbaca oleh seismograf adalah gelombang sekunder. Gelombang sekunder merambat melalui batuan dengan arah getaran tegak lurus terhadap arah rambatnya, sehingga dapat menaik-turunkan batuan yang dilaluinya. Gelombang primer tercatat lebih dahulu oleh seismograf karena memiliki cepat rambat yang paling cepat diantara gelombang seismik yang lain. Beda waktu antara kedatangan gelombang primer pertama dan gelombang sekunder pertama adalah petunjuk yang penting untuk mengetahui pusat gempa. Suatu titik yang menjadi pusat gempa di dalam bumi disebut hiposenter, sedangkan titik di permukaan bumi yang merupakan refleksi tegak lurus dari hiposentrum disebut episenter.
+    </string>
+
+    <string name="txtST2gambar34">
+        Gambar 34. Letak episenter dan hiposenter
+        \n Sumber: ilmudasar.id
+    </string>
+
+    <string name="txtST2gambar35">
+        Gambar 35. Grafik gelombang primer dan gelombang sekunder
+        \n Sumber: erwinedwar,com
+    </string>
+
+    <string name="txtST2pengembangan11">
+        Grafik hasil pencatatan aktivitas gelombang seismik dapat digunakan untuk menentukan episenter gempa bumi. Jika minimal ada tiga status pencatat gempa yang mencatat data, maka ilmuan dapat menentukan letak episentrum gempa bumi. Penentuan letak episentrum dilakukan dengan menggambar lingkaran, dengan status gempa menjadi pusatnya dan jarak episenter sebagai jari-jarinya. Metode tersebut dinamakan metode lingkaran. Metode lingkaran menggunakan data waktu tiba gelombang seismik dari tiga stasiun pencatat gempa.
+    </string>
+
+    <string name="txtST2pengembangan12">
+Mengukur kekuatan gempa bumi dapat dilakukan secara kuantitatif maupun kualitatif. Kekuatan gempa bumi (magnitude) yang terekam dalam seismograf dinyatakan dalam skala Richter yang merupakan pendekatan kuantitatif. Skala Richter menunjukkan besarnya energi gempa bumi yang dilepaskan. Semakin tinggi magnitude suatu gempa, maka energi yang dilepaskan juga semakin besar. Dampaknya adalah kerusakan yang ditimbulkan juga semakin besar.
+
+    </string>
+
+    <string name="txtST2gambar36">
+        Gambar 36. Penentuan episenter dengan metode lingkaran
+        \n Sumber: geofisika.wordpress.com
+    </string>
+
+    <string name="txtST2pengembangan13">
+Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan intensitas. Intensitas gempa bergantung pada lokasi di mana seseorang merasakan getaran gempa bumi. Intensitas gempa bumi adalah besarnya gempa yang ditentukan melaluiobservasi kerusakan suatu bangunan di tempat tertentu. Berdasar tingkat kerusakan, disusunlah Skala Intensitas Modified Marcalli (MMI) yang terdiri dari XII tingkatan.
+    </string>
+
+
+    <string name="txtST2pengembangan14">
+        Tabel 3. Perbandingan Skala MMI terhadap Skala Richter
+    </string>
+
+
+    <string name="txtST2aplikasi">
+        Kamu tentu telah memahami bagaimana prinsip kerja seismograf. Cobalah untuk menjawab pertanyaan berikut dengan menerapkan pemahaman yang telah kamu peroleh pada kegiatan pembelajaran sebelumnya!
+
+        \n \n 1. Menurutmu, apakah para ilmuwan saat ini dapat menentukan arah sumber gempa bumi? Jika “ya”, bagaimana cara ilmuan menentukan arah sumber gempa bumi?
+        \n 2. Berdasar hasil pengamatan, diperoleh grafik pada seismograf sebagai berikut,
+        \n a. Dapatkah kamu membedakan gelombang P, gelombang S, dan gelombang permukaan pada grafik di atas?
+        \n b. Berdasar grafik di atas, isilah pernyataan berikut dengan benar!
+        \n 1) Gelombang P datang pada interval menit ke … sampai menit ke …
+        \n 2) Gelombang S datang pada interval menit ke … sampai menit ke …
+        \n 3) Gelombang Permukaan datang pada interval menit ke … sampai menit ke …
+        \n c. Mengapa gelombang P lebih dulu terekam seismograf daripada  Gelombang S? Jelaskan jawabanmu!
+        \n d. Mengapa gelombang badan lebih dulu terekam seismograf daripada gelombang permukaan? Jelaskan jawabanmu!
+        \n e. Berdasar grafik di atas, apakah perbedaan antara amplitudo gelombang badan dengan amplitudo gelombang permukaan? Apa dampak yang ditimbulkan dari perbedaan amplitude tersebut?
+    </string>
+
+    <string name="txtST2rangkuman">
+        1. Seismograf adalah alat yang digunakan untuk mengukur kekuatan gempa secara kuantitatif.
+        \n 2. Data hasil pencatatan gempa bumi oleh seismograf disebut seismogram.
+        \n 3. Menurut arah rambatnya, gelombang dapat dibedakan menjadi gelombang transversal dan gelombang longitudinal.
+        \n 4. Gelombang seismik yang merambat di permukaan bumi terdiri dari gelombang badan dan gelombang permukaan.
+        \n 5. Gelombang badan merambat di dalam bumi. Gelombang permukaan merambat di permukaan bumi dan memiliki energi merusak lebih besar daripada gelombang badan.
+        \n 6. Gelombang badan terdiri dari gelombang primer dan gelombang sekunder. Sedangkan gelombang permukaan terdiri dari gelombang love dan gelombang Rayleigh
+        \n 7. Gelombang primer tergolong gelombang longitudinal, sedangkan gelombang sekunder termasuk gelombang transversal.
+        \n 8. Data datangnya gelombang seismik dapat digunakan untuk menentukan episenter gempa bumi.
+        \n 9. Penentuan episenter dapat dilakukan dengan metode lingkaran.
+        \n 10. Episenter adalah suatu titik di permukaan yang menjadi refleksi tegak lurus dari hiposenter
+        \n 11. Hiposenter adalah suatu titik di dalam bumi yang menjadi fokus/sumber gempa bumi
+        \n 12. Frekuensi adalah banyaknya gelombang yang terjadi tiap satu satuan waktu.
+        \n 13. Cepat rambat gelombang adalah jarak yang ditempuh gelombang setiap satu satuan waktu.
+        \n 14. Amplitudo adalah simpangan terjauh dari titik keseimbangan.
+        \n 15. Gelombang permukaan lebih dirasakan ketika terjadi gempa bumi karena memiliki amplitudo yang lebih besar daripada gelombang badan.
+    </string>
 
 
 
