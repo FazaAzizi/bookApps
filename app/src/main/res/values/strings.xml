@@ -365,7 +365,7 @@
 
 
     <string name="txtST2">
-        Tujuan Pembelajaran	:
+        Tujuan Pembelajaran	:okl
         \n\n 1. Menjelaskan cara kerja alat ukur kekuatan gempa bumi (seismograf) dengan benar
         \n 2. Membedakan karakteristik gelombang badan dan gelombang permukaan dengan benar
 
@@ -391,6 +391,29 @@
 
 
 
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
     <string name="txtST2gambar39">
         Gambar Sismoskop Zhang Heng
@@ -405,8 +428,6 @@
         Gambar 22. Seismograf dan Grafik Gelombang Seismik
         Sumber: Kusky, 2008
     </string>
-
-
 
     <string name="txtST2pengembangan2">
         Seismograf terdiri dari gantungan pemberat dengan pensil diujungnya. Ketika gempa bumi terjadi, pensil akan ikut bergetar dan merekam getaran yang berupa gelombang dalam sebuah kertas. Seismograf kemudian mencatat data berupa grafik gelombang gempa (gelombang seismik). Jika kalian melihat grafik pada gambar di atas, gelombang seismik yang tercatat oleh seismograf terdiri dari empat jenis gelombang, yaitu gelombang primer (gelombang p), gelombang sekunder (gelombang s), gelombang love dan gelombang rayleigh.
@@ -552,10 +573,315 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="txtST3tujuan">
+        Tujuan Pembelajaran	:
+        \n Melalui kegiatan diskusi dan simulasi, peserta didik dapat:
+        \n\n 1. Menjelaskan akibat gempa bumi bagi masyarakat dan lingkungan dengan benar
+        \n 2. Menjelaskan pentingnya sistem peringatan dini untuk mendeteksi terjadinya gempa bumi dengan benar
+        \n 3. Menjelaskan tindakan yang harus dilakukan sebelum, saat dan setelah terjadi gempa bumi dengan benar
+        \n 4. Menjelaskan tindakan untuk memobilisasi sumber daya dengan benar
+        \n 5. Merencanakan aktivitas untuk menghadapi keadaan darurat bencana dengan baik
+        \n 6.  Mensimulasikan tindakan yang harus dilakukan ketika terjadi gempa bumi dengan benar
+    </string>
+
+    <string name="txtST3pendahuluan1">
+        Bacalah teks berikut dengan cermat!
+    </string>
+
+    <string name="txtST3judulPendahuluan">
+        Dampak Gempa Bumi 27 Mei 2006
+    </string>
+
+    <string name="txtST3pendahuluan2">
+        Gempa yang melanda Yogyakarta 27 Mei 2006 pukul 5.54 WIB dengan magnitude 5,9 skala richter dan kedalaman 10 km. Pusat gempa berjarak 15 km di sebelah selatan kota Yogyakarta (tepatnya di Kabupaten Bantul) telah merobohkan lebih dari seratus ribu rumah, dengan data sebagai berikut
+    </string>
+
+    <string name="txtST3tabel1">
+        Tabel 1. Keruskaan rumah di DIY akibat gempa bumi Bantul 2006
+    </string>
+
+    <string name="txtST3tabel2">
+        Tabel 2. Jumlah Korban Meninggal
+    </string>
+
+    <string name="txtST3kutipan1">
+        Dikutip dari: pelajaran dari gempa bumi Yogyakarta 27 Mei 2006, dengan perubahan
+    </string>
+
+    <string name="txtST3pendahuluan3">
+        Setelah kamu membaca teks berita di atas, dapatkah kamu menganalisis apa saja dampak gempa bumi  bagi masyarakat! Tuliskan jawaban logismu dalam kotak “Aku Tahu” berikut.
+    </string>
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="txtST3pengembangan1">
+        Kamu telah mengetahui dampak benca gempa bumi bagi masyarakat. Gempa bumi tidak hanya mengakibatkan kerugian harta benda, tetapi juga korban jiwa. Tetapi, tahukah kamu mengapa di Indonesia sering terjadi bencana gempa bumi? Hubungkan jawabanmu dengan letak geografis Indonesia, lalu tuliskan jawabanmu dalam kotak yang telah disediakan!
+    </string>
+
+    <string name="txtST3gambar41">
+        Gambar 41. Letak Geografis Indonesia
+        \n Sumber: mahalindonesia.blogspot.com
+    </string>
+
+    <string name="txtST3pengembangan2">
+        Secara geografis, Indonesia terletak diantara tiga lempeng aktif di dunia, yaitu lempeng Eurasia, Indo-Australia dan Pasifik. Letak geografis tersebut menyebabkan Indonesia rentan terhadap bencana geologis, seperti gempa bumi. Gempa bumi di Indonesia merupakan fenomena alam yang dapat terjadi kapanpun sebagai dampak negatiF dari letak geografis Indonesia. Bacalah “Info Sains” berikut untuk lebih memahami kerentanan tanah akibat gempa bumi di daerahmu!
+    </string>
+
+    <string name="txtST3pengembangan3">
+        Info Sains
+        \n\n Nilai Nilai Kerentanan Tanah Akibat Gempa Bumi di Kabupaten Sleman
+    </string>
+
+    <string name="txtST3pengembangan4">
+        Pulau Jawa termasuk dalam daerah pertemuan lempeng antara lempeng Eurasia dan lempeng Indo-Australia. Pertemuan lempeng tersebut mengakibatkan Pulau Jawa sangat rentan terhadap gempa bumi. Kerentanan permukaan tanah saat terjadi gempa bumi dapat dijelaskan dengan nilai kerentanan tanah akibat gempa bumi. Wilayah yang memiliki nilai kerentanan tanah akibat gempa bumi tinggi berarti tanah di wilayah tersebut rentan mengalami perubahan dalam bentuk rekahan akibat gempa bumi.
+        \n\n Menurut Joko Lelono selaku Kepala Seksi Mitigasi Bencana Badan Penganggulangan Bencana Daerah (BPBD) Kabupaten Sleman dalam pemetaan kajian risiko gempa bumi mengacu pada wilayah yang masuk pada jalur Sesar Opak. Ada tiga kecamatan yang berada di zona merah yaitu 500 meter dari jalur Sesar Opak meliputi Kecamatan Prambanan, Berbah, dan Kalasan.  Dari ketiga kecamatan tersebut kecamatan yang paling rentan adalah kecamatan Berbah. Karena selain masuk jalur sesar opak, kecamatan berbah juga berada pada persentuhan batuan alluvial merapi. Pada Gempa Bumi 2006 silam, Kecamatan Berbah terkena dampak paling parah. Korban jiwa mencapai ribuan dan di Desa Jogotirto, Berbah bangunan hampir rata.
+    </string>
+
+    <string name="txtST3kutipan2">
+        Diadopsi dari news.harianjogja.com (DIY Tidak Belajar dari Gempa 2006)
+    </string>
+
+    <string name="txtST3judulpengembangan1">
+        Kesiapsiagaan Bencana
+    </string>
+
+    <string name="txtST3pengembangan5">
+        Karena kita hidup daerah rawan benacna gempa bumi, tentu kita harus meningkatkan sikap kesiapsiagaan bencana. Sebenernya apa yang dimaksud dengan kesiapsiagaan bencana?
+        \n Kesiapsiagaan bencana adalah segala tindakan/aktivitas yang bertujuan untuk mempersiapkan diri jika terjadi bencana guna menghindari dan mengurangi jatuhnya korban jiwa dan kerugian harta benda
+    </string>
+
+    <string name="txtST3pengembangan6">
+        Upaya untuk menghindari dan mengurangi jatuhnya korban jiwa dan harta benda dapat dilakukan sebelum, saat dan sesudah gempa bumi terjadi.
+
+        \n\n 1. Upaya sebelum gempa bumi
+        \n Kamu harus terlebih dahulu mengetahui apa yang disebut dengan gempa bumi dan bagaimana dampaknya. Beberapa hal yang dapat dilakukan sebagai upaya untuk mengurangi resiko gempa bumi adalah sebagai berikut.
+
+        \n\n a. Kotak P3K, senter dan makanan adalah hal yang harus ada setiap saat. Pastikan kotak P3K dirumah/sekolahmu memiliki perlengkapan dan obat-obatan yang dapat digunakan dengan baik. Kotak P3K sebaiknya ditempatkan di tempat yang mudah terlihat dan terjangkau, diberi tanda arah yang jelas, berada pada ruang cukup cahaya dan mudah diangkat apabila akan digunakan.
+        \n b. Letakkan benda-benda berat dan mudah pecah di almari bagian bawah, supaya tidak menimpa peserta didik ketika gempa terjadi.
+        \n c. Pelajari lingkungan sekitar peserta didik. Jika terjadi gempa bumi, peserta didik sudah harus mengetahui di mana kamu akan berlindung dan jalur evakuasi yang harus peserta didik lalui.
+        \n d. Bila ada benda yang tergantung, pastikan benda tersebut tergantung dengan kuat dan stabil sehingga tidak berpotensi jatuh ketika gempa bumi terjadi.
+        \n e. Terapkan teknologi rekayasa bangunan tahap gempa. Merenovasi rumah supaya dapat menahan getaran gempa bumi adalah salah satu cara mengurangi resiko kerugian harta benda dan kematian penghuni rumah.
+        \n f. Perhatikan sisitem peringatan dini gempa bumi. Sistem peringatan dini merupakan tanda peringatan dan penyebaran informasi akan terjadinya bencana sehingga masyarakat dapat melakukan tindakan untukmengurangi korban jiwa, harta benda dan kerusakan lingkungan.
+        \n g. Simpan nomor-nomor penting yang dapat dihubungi saat terjadi gempa bumi, seperti tim SAR, pemadam kebakaran, kantor polisi maupun instansi pemerintah lain.
+        \n h. Selalu berdoa supaya Tuhan menjaga kita dari segala bahaya.
+
+        \n\n Sebelum Terjadi Gempa Bumi Kamu Harus
+
+        \n\n a. Menyiapkan kotak P3K beserta isinya, senter dan alat pemadam kebakaran. Mempelajari cara memberikan pertolongan pertama pada korban gempa bumi
+        \n b. Perabotan (almari, cabinet, dll) diatur menempel pada dinding untuk menghindari jatuh, roboh ataupun bergeser ketika terjadi gempa bumi. Benda yang udah terbakar diletakkan dalamwadah yang tidak mudah pecah agar terhindar dari kebakaran.
+        \n c. Letakkan benda berat di almari bagian bawah, supaya tidak menimpamu ketika terjadi gempa bumi.
+        \n d. Ketahui di mana kamu akan berlindung dan jalur evakuasi yang arus kamu lalui. Perhatikan letak pintu, lift serta tangga darurat apabila terjadi gempa bumi. Bila ada benda yang tergantung, pastikan benda tersebut tergantung dengan kuat dan stabil sehingga tidak berpotensi jatuh ketika gempa bumi terjadi.
+        \n e. Perhatikan sistem peringatan dini gempa bumi. Sistem peringatan dini merupakan tanda peringatan dan penyebaran informasi akan terjadinya bencana sehingga masyarakat dapat melakukan tindakan untuk mengurangi korban jiwa, harta benda dan kerusakan lingkungan.
+        \n f. Simpan nomor-nomor penting yang dapat dihubungi saat terjadi gempa bumi, seperti tim SAR, pemadam kebakaran, kantor polisi maupun instansi pemerintah lain.
+        \n g. Selalu berdoa supaya Tuhan menjaga kita dari segala bahaya.
+
+        \n\n 2. Upaya saat mengahadapi gempa bumi
+        \n Ketika terjadi gempa bumi, kamu harus mengetahui hal-hal apa saja yang harus kamu lakukan, diantaranya sebagai berikut.
+
+        \n\n a. Jika kamu berada di dalam rumah, carilah tempat berlindung. Hindari berdiri di dekat benda yang berpotensi roboh. Lindungi kepalamu dengan benda di sekitarmu, atau minimal dengan t
+        \n b. Jika kamu berada dalam gedung setelah getaran gempa bumi berhenti. Jangan memakai lift, tetapi gunakan tangga darurat untuk keluar gedung.
+        \n c. Jika kamu terjebak di dalam lift, tekan semua tombol.
+        \n d. Jika kamu sedang berkendara, berhenti lalu keluarlah dari kendaraan. Cari ruangan terbuka agar terhindar dari reruntuhan bangunan.
+        \n e. Jika kamu berada di luar rumah, jauhi bangunan, tiang listrik, pohon maupun benda lain yang berpotensi roboh. Segeralah menuju ke tanah lapang. Jauhi jurang atau lereng curam yang memungkinkan longsor.
+        \n f. Menjauh dari kawasan gunung atau pantai. Jika kamu sedang berada di gunung, waspadai bahaya longsor yang diakibatkan oleh gempa bumi. Sedangkan jika kamu berada di daerah pantai, waspadai bahaya tsunami. Jika tanda-tanda tsunami tampak, segeralah mengungsi ke dataran yang lebih tinggi.
+
+        \n\n Saat terjadi gempa bumi
+
+        \n\n a. Cari tempat berlindung. Lindungi kepala dengan benda yang ada disekitarmu.
+        \n b. Jika kamu terjebak dalam lift, pencet semua tombol berhenti, kemuudian keluarlah.
+        \n c. Jika kamu di dalam gedung, keluarlah dengan tertib setelah gempa bumi berhenti.
+        \n d. Jika kamu sedang berkendara, berhenti kemudian keluar dari kendaraan.
+        \n e. Jika kamu berada diluar ruangan, jauhi bangunan, tiang listrik dan benda lain yang berpotensi roboh.
+        \n f. Menjauh dari kawasan pegunungan yang berpotensi longsor dan dari kawasan pantai yang berpotensi tsunami.
+
+        \n\n 3. Upaya setelah terjadi gempa bumi
+        \n a. Jika kamu masih berada di dalam ruang, segeralah keluar dengan teratur. Tutup hidung dan mulutmu dengan masker atau kain supaya pernafasnmu tidak terganggu oleh debu reruntuhan bangunan. Jika kamu terjebak di dalam ruangan, gunakan telepon untuk meminta pertolongan. Jika telepon tidak berfungsi, gunakan isyarat lain untuk menandakan bahwa kamu membutuhkan pertolongan, misalnya bunyikan peluit atau pukul benda-benda yang ada di sekitarmu.
+        \n b. Pastikan tidak ada tabung gas yang bocor dan korsleting arus listrik karena dapat menimbulkan kebakaran. Lebih baik jika kamu segera melepas tabung gas dari regulatornya dan mematikan arus listrik.
+        \n c. Periksa kondisi dirimu, keluarga dan sekitar, apakah ada yang membutuhkan pertolongan? Berikan pertolongan pertama kepada orang-orang yang mengalami cedera saat terjadi gempa bumi besar.
+        \n d. Jauhi bangunan yang rusak, karena berpotensi roboh.
+        \n e. Selalu waspada akan terjadi gempa susulan. Untuk menghindari kepanikan, selalu dengarkan informasi dari instansi resmi pemerintah. Jangan bertindak berdasarkan informasi yang tidak valid.
+        \n f. Evakuasi. Segeralah menuju ke titik evakuasi terdekat. Titik evakuasi adalah tempat aman untuk berkumpul di saat terjadi bencana.
+        \n g. Berdoa kepada Tuhan agar senantiasa dilindungi dari marabahaya.
+
+        \n\n Setelah Terjadi Gempa Bumi
+        \n a. Keluar ruang dengan teratur.
+        \n b. Pastikan tidak terjadi kebakaran, kebocoran gas dan korsleting listrik.
+        \n c. Berikan pertolongan pertama pada orang yang membutuhkan.
+        \n d. Jauhi bangunan rusak karena berpotensi roboh.
+        \n e. Dengarkan informasi resmi dari pemerintah. Selalu waspada akan terjadinya gempa bumi susulan!
+        \n f. Lakukan evakuasi dengan kawalan petugas polisi atau instansi pemerintah.
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="txtST3aplikasi">
+        Berdasar isu pada bagian pendahuluan, kamu telah mengetahi bahwa gempa bumi pada tanggal 27 Mei 2006 di Yogyakarta telah memakan banyak korban jiwa dan kerugian harta benda.
+ 
+        \n\n Menurutmu, apakah banyaknya korban jiwa dan kerugian harta benda yang diakibatkan gempa bumi 27 Mei 2006 berkaitan dengan kesiapsiagaan bencana masyarakat? Mengapa?
+ 
+        \n\n Jika terdapat sebuah pernyataan “ Ketika terjadi gempa bumi pada tanggal 27 Mei 2006, masyarakat belum memiliki kesiapsiagaan dalam menghadapi bencana gempa bumi.” Setujukah kamu dengan pernyataan tersebut? Mengapa?
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="txtST3pemantapan">
+        Untuk lebih memahami pokok bahasan mengenai gempa bumi dan kesiapsiagaan bencana, lakukanlah kegiatan simulasi di bawah ini. Simulasi adalah kegiatan yang diatur sedimikian rupa sehingga menyerupai keadaan yang sebenarnya. Melakukan simulasi di bawah ini sesuai dengan arahan gurumu!
+    </string>
+
+    <string name="txtST3pemantapan2">
+        Info Sains
+        \n\n Aplikasi Info BMKG untuk smartphone
+        \n My Shake, Alat Pendeteksi Dini Gempa Bumi Untuk Smartphone
+
+        \n\n Aplikasi “My Shake”diciptakan berdasarkan pengalaman gempa bumi dan tsunami di Jepang. Dengan memanfaatkan akselerometer yang ada dalam perangkat ponsel pintar, aplikasi ini mengumpulkan data dalam jumlah besar.
+    </string>
+
+    <string name="txtST3gambar47">
+        Gambar 47. Aplikasi Info BMKG
+        \n Sumber: androidpit.es
+    </string>
+
+    <string name="txtSTpemantapan3">
+        BERKELEY, CALIFORNIA- Ketika gempa bumi mengguncang, setiap detik sangat berarti. Demikian keadaannya lima tahun yang lalu ketika gempa berskala 9 SR memicu gelombang tsunami dahsyat yang menghancurkan Jepang.
+ 
+        \n\n Jejaring seismologi langsung aktif dan mengeluarkan peringatan dini, namun gelombang dahsyat tersebut tetap menewaskan hamper 16.000 orang dan menyebabkan kurang lebih kerugian senilai US$300 milyar (sekitar RP 3.930 trilyun).
+ 
+        \n\n Sejak saat itu para ilmuan telah bekerja untuk memperbaiki sistem deteksi dengan harapan untuk menghasilkan data gempa bumi yang lebih akurat dan memberikan kesempatan orang untuk menghindari dari kawasan yang diperkirakan rawan terhadap bencana.
+ 
+        \n\n Saat ini para peneliti berharap untuk dapat memanfaatkan basis data terpusat yang baru. Teknologi instrumentasi seismologi konvensional telah ada dalam setiap perangkat ponsel pintar dewasa ini.
+
+        \n\n “Gagasannya adalah apabila kita dapat memanfaatkan akselerometer dalam perangkat telepon pintar tersebut maka kita dapat mengumpulkan data dalam jumlah masif. Ini bisa merevolosi cara kita memahami gempa bumi dan efek gempa bumi,” ujar Richard Allen, Direktur Laboratorium Seismologi pada Universitas California di Berkeley.
+        \n\n Allen dan timnya telah mengembangkan aplikasi telepon pintar yang disebut “My Shake” yang dirancang untuk memantau data akselero meter yang ada di telepon pintar dan mengirim peringatan ke serever pusat ketika diketahui adanya aktivitas seismik.
+        \n\n Ia berujar, akselerometer dalam telepon pintar tidak sensitif instrumentasi konvensional, namun rendahnya tingkat sensitifitas itu bisa dikompensasi oleh karena ketersediaan ponsel pintar tersebut dalam jumlah besar. Data waktu nyata pada telepon pintar tersebut setara dengan lebih banyaknya waktu peringatan.
+        \n\n “Jadi jumlah waktu peringatan yang kita bicarakan tentunya tergantung dari posisi anda relatif terhadap gempa bumi yang terjadi. Kita berbicara mngenai detik, puluhan detik, skenario terbaik adalah beberapa menit sebelum terjadinya gempa bumi, secara teori puluhan menit sebelum tsunami mlanda,” ujar Allen
+        \n\n Data yang ada di telepon pintar dimaksudkan sebagai pendukung jejearing pemantauan gempa bumi yang ada, menurut Allen, namun ia menambahkan banyak dari kawasan yang paling rentan terhadap gempa bumi dan tsunami yang mematikan tidak dilengkapi oleh sistem peringatan dini yang handal. Di tempat-tempat semacam itu, ujarnya sumber data baru ini terbukti bisa menjadi penemuan baru.
+        \n\n “Tidak ada instrumentasi seismik namun ada banyak telepon pintar yang seringkali dapat kita manfaatkan perangkat telepon pintar tersebut untuk memberikan semacam peringatan ke Negara-negara itu.”
+        \n\n Aplikasi “My Shake” ini dapat diunduh di situs web labs di myshake.berkely.edu
+
+    </string>
+
+    <string name="txtST3kutipan3">
+        Dikutip dari voaindonesia.com dengan sedikit perubahan
+    </string>
 
 
 
