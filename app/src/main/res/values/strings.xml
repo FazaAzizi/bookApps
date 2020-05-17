@@ -169,6 +169,28 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="txtST1judulpengembangan2">
         Apa yang menyebabkan lempeng bumi bergerak?
     </string>
@@ -190,6 +212,16 @@
     <string name="txtst1pengembangan8">
          Aliran konveksi dalam air yang dipanaskan sama dengan aliran konveksi yang ada di dalam bumi. Inti bumi yang memiliki suhu 60000C memanaskan bagian bawah mantel bumi, sehingga massa jenis bagian bawah mantel bumi berkurang. Massa jenis bagian bawah mantel bumi berkurang menyebabkan bagian mantel tersebut akan bergerak naik ke permukaan mantel bumi. Mantel bumi bagian atas yang memiliki suhu rendah, memiliki massa jenis yang lebih besar sehingga mantel bumi bagian bagian atas akan turun kedasar mantel bumi. Bagian dasar mantel bumi selalu terkena panas yang bersumber dari inti bumi kembali, sehingga proses konveksi berlangsung terus menerus.
     </string>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -288,6 +320,50 @@
         Gambar 19. Sesar San Andreas
         \n Sumber: geomaps.wr.usgs.gov
     </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="txtST1aplikasi">
+        Kamu tentu telah memahami konsep gempa bumi dan penyebabnya. Berdasar isu pada bagian pendahuluan (07-05-2006: Gempa Mengepung Yogyakarta) dan uraian materi mengenai pergerakan lempeng bumi, analisislah penyebab gempa bumi 27 Mei 2016!
+        \n\n Hubungkan hasil analismu dengan peta pergerakan lempeng dunia berikut (pusatkan perhatianmu pada daerah yang dilingkari merah)!
+    </string>
+
+    <string name="txtST1gambar20">
+        Gambar 20. Peta pergerakan lempeng dunia
+        \n Sumber: Kusky, 2008
+    </string>
+
+
+
 
 
 
