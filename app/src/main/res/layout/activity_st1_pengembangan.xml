@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Pendahuluan"
+        android:text="Pengembangan"
         android:textSize="24sp"
         android:gravity="center_horizontal"/>
     <androidx.cardview.widget.CardView
@@ -38,14 +38,6 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:text="@string/txtST1judulpengembangan1"
-                    android:textSize="24sp"
-                    android:textColor="@android:color/black"/>
-                <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -54,11 +46,6 @@
                     android:text="@string/txtST1pengembangan1"/>
 
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar3" />
                 <TextView
                     android:gravity="center_horizontal"
                     android:layout_width="match_parent"
@@ -75,11 +62,9 @@
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan2"/>
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar4" />
+
+
+
                 <TextView
                     android:gravity="center_horizontal"
                     android:layout_width="match_parent"
@@ -87,7 +72,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1gambar4"/>
-
 
                 <TextView
                     android:justificationMode="inter_word"
@@ -99,11 +83,6 @@
 
 
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar5" />
                 <TextView
                     android:gravity="center_horizontal"
                     android:layout_width="match_parent"
@@ -112,18 +91,6 @@
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1gambar5"/>
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar7" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar7"/>
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -131,21 +98,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan4"/>
-
-
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar8" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar8"/>
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -153,20 +105,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan5"/>
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar9" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar9"/>
-
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -174,41 +112,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan6"/>
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar10" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar10"/>
-
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:text="@string/txtST1judulpengembangan2"
-                    android:textSize="24sp"
-                    android:textColor="@android:color/black"/>
-
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar11" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar11"/>
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -216,55 +119,14 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan7"/>
-
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar12" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar12"/>
-
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
+                    android:layout_margin="20dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST1pengembangan8"/>
-
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:text="Aku Tahu"
-                    android:textSize="24sp"
-                    android:textColor="@android:color/black"/>
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambarkuning3" />
-
-
-
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:text="@string/txtST1judulpengembangan3"
-                    android:textSize="24sp"
-                    android:textColor="@android:color/black"/>
-
+                    android:textStyle="bold"
+                    android:text="@string/txtST1judulpengembangan3"/>
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -272,20 +134,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan9"/>
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar13" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar13"/>
-
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -293,19 +141,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan10"/>
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar14" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar14"/>
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -313,19 +148,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan11"/>
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar15" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar15"/>
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -333,19 +155,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan12"/>
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar16" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar16"/>
 
                 <TextView
                     android:justificationMode="inter_word"
@@ -355,19 +164,6 @@
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan13"/>
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar17" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar17"/>
-
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -375,18 +171,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan14"/>
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar18" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar18"/>
 
                 <TextView
                     android:justificationMode="inter_word"
@@ -395,18 +179,6 @@
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
                     android:text="@string/txtST1pengembangan15"/>
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar19" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar19"/>
 
 
 

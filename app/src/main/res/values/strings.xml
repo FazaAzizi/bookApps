@@ -11,13 +11,19 @@
     <string name="txtST1">
     Tujuan Pembelajaran	:
     \n Melalui kegiatan disuksi, peserta didik dapat
-    \n Menjelaskan pengertian gempa bumi dengan benar
-    \n Menjelaskan karakteristik lapisan penyusun bumi dengan benar
-    \n Menjelaskan teori tektonik lempeng dengan benar
-    \n Menjelaskan jenis pergerakan lempeng bumi dengan benar
-    \n Membedakan proses terjadinya sesar dengan benar
-    \n Menjelaskan akibat letak geografis Indonesia terhadap kerentanan bencana gempa bumi dengan benar
+    \n\n 1. Menjelaskan pengertian gempa bumi dengan benar
+    \n 2. Menjelaskan karakteristik lapisan penyusun bumi dengan benar
+    \n 3. Menjelaskan teori tektonik lempeng dengan benar
+    \n 4. Menjelaskan jenis pergerakan lempeng bumi dengan benar
+    \n 5. Membedakan proses terjadinya sesar dengan benar
+    \n 6. Menjelaskan akibat letak geografis Indonesia terhadap kerentanan bencana gempa bumi dengan benar
     </string>
+
+
+
+
+
+
 
 
 
@@ -162,7 +168,7 @@
         \n Sumber: Chaisson, 2014
     </string>
 
-    <string name="txtST1pengembangan8">
+    <string name="txtst1pengembangan8">
          Aliran konveksi dalam air yang dipanaskan sama dengan aliran konveksi yang ada di dalam bumi. Inti bumi yang memiliki suhu 60000C memanaskan bagian bawah mantel bumi, sehingga massa jenis bagian bawah mantel bumi berkurang. Massa jenis bagian bawah mantel bumi berkurang menyebabkan bagian mantel tersebut akan bergerak naik ke permukaan mantel bumi. Mantel bumi bagian atas yang memiliki suhu rendah, memiliki massa jenis yang lebih besar sehingga mantel bumi bagian bagian atas akan turun kedasar mantel bumi. Bagian dasar mantel bumi selalu terkena panas yang bersumber dari inti bumi kembali, sehingga proses konveksi berlangsung terus menerus.
     </string>
 
@@ -320,10 +326,48 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="txtST2">
         Tujuan Pembelajaran	:
-        \n Menjelaskan cara kerja alat ukur kekuatan gempa bumi (seismograf) dengan benar
-        \n Membedakan karakteristik gelombang badan dan gelombang permukaan dengan benar
+        \n\n 1. Menjelaskan cara kerja alat ukur kekuatan gempa bumi (seismograf) dengan benar
+        \n 2. Membedakan karakteristik gelombang badan dan gelombang permukaan dengan benar
 
     </string>
 
