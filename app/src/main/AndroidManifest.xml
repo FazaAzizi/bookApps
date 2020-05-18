@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".st1.St1PenilaianActivity"></activity>
+        <activity android:name=".st3.st3PenilaianActivity"></activity>
+        <activity android:name=".st3.st3AplikasiActivity" />
+        <activity android:name=".st3.st3RangkumanActivity" />
+        <activity android:name=".st3.st3PemantapanActivity" />
+        <activity android:name=".st3.st3PengembanganActivity" />
+        <activity android:name=".st3.st3PendahuluanActivity" />
+        <activity android:name=".st1.St1PenilaianActivity" />
         <activity android:name=".st1.St1AplikasiActivity" />
         <activity android:name=".st1.St1PemantapanActivity" />
         <activity android:name=".st1.St1PengembanganActivity" />
@@ -17,6 +23,13 @@
         <activity android:name=".st1.St1PendahuluanActivity" />
         <activity android:name=".PengantarActivity" />
         <activity android:name=".SubTema1Activity" />
+        <activity android:name=".st2.St2PenilaianActivity" />
+        <activity android:name=".st2.St2AplikasiActivity" />
+        <activity android:name=".st2.St2PemantapanActivity" />
+        <activity android:name=".st2.St2PengembanganActivity" />
+        <activity android:name=".st2.St2RangkumanActivity" />
+        <activity android:name=".st2.St2PendahuluanActivity" />
+        <activity android:name=".SubTema2Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

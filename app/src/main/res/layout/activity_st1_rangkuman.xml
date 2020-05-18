@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:card_view="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical"
     android:background="@color/colorPrimary"
+    android:orientation="vertical"
     tools:context=".st1.St1RangkumanActivity">
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
         android:text="Rangkuman"
-        android:textSize="24sp"
-        android:gravity="center_horizontal"/>
+        android:textSize="24sp" />
+
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="8dp"
         android:padding="8dp"
-        app:cardCornerRadius="70dp"
-        app:cardBackgroundColor="@android:color/white"
         android:paddingBottom="32dp"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="70dp"
         card_view:cardElevation="6dp"
-        card_view:cardPreventCornerOverlap="false"
-        >
+        card_view:cardPreventCornerOverlap="false">
+
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -40,12 +42,12 @@
 
 
                 <TextView
-                    android:justificationMode="inter_word"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtst1rangkuman"/>
+                    android:justificationMode="inter_word"
+                    android:text="@string/txtst1rangkuman"
+                    android:textColor="@android:color/black" />
             </LinearLayout>
         </ScrollView>
 

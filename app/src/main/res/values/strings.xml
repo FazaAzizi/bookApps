@@ -20,13 +20,6 @@
     </string>
 
 
-
-
-
-
-
-
-
     <string name="txtST1judul">
         Bacalah teks berikut dengan cermat!
         \n 27 Mei 2006
@@ -56,24 +49,6 @@
     <string name="txtST1kutipan1">
         Dikutip dari global.liputan6.com dengan sedikit perubahan.
     </string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <string name="txtST1judulpengembangan1">
@@ -173,38 +148,6 @@
     </string>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="txtST1judulpengembangan3">
           Bagaimana gerakan lempeng bumi?
     </string>
@@ -281,36 +224,6 @@
     </string>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="txtST1aplikasi">
         Kamu tentu telah memahami konsep gempa bumi dan penyebabnya. Berdasar isu pada bagian pendahuluan (07-05-2006: Gempa Mengepung Yogyakarta) dan uraian materi mengenai pergerakan lempeng bumi, analisislah penyebab gempa bumi 27 Mei 2016!
         \n\n Hubungkan hasil analismu dengan peta pergerakan lempeng dunia berikut (pusatkan perhatianmu pada daerah yang dilingkari merah)!
@@ -320,48 +233,6 @@
         Gambar 20. Peta pergerakan lempeng dunia
         \n Sumber: Kusky, 2008
     </string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <string name="txtST2">
@@ -387,33 +258,9 @@
         \n \n Suatu hari di tahun 138 bulan kedua, mulut naga yang menghadap ke barat pada seismoskop ini mengeluarkan bola perunggu yang kemudian jatuh ke atas mulut katak. Hal ini menunjukkan bahwa di daerah barat daya terjadi gempa bumi. Tetapi waktu itu di Louyang sama sekali tidak terasa gempa, sehingga semua orang berkata bahwa seismokop Zhang Heng tidak akurat. Setelah beberapa hari, ada orang melapor dari wilayah tenggara Gansu, di sana beberapa hari yang lalu terjadi gempa yang besar, sehingga publik percaya kepada sismokop Zhang Heng.
     </string>
 
-
-
-
-
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+    <string name="txtST2pendahuluan3">
+    Seismoskop buatan Zhang Heng ini merupakan alat pendeteksi gempa bumi pertama di dunia. Seismograf buatannya diakui secara umum dapat ditiru atau dijiplak, melebihi instrumen canggih yang ad pada saat ini
+    </string>
 
     <string name="txtST2gambar39">
         Gambar Sismoskop Zhang Heng
@@ -538,6 +385,10 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         Tabel 3. Perbandingan Skala MMI terhadap Skala Richter
     </string>
 
+    <string name="txtST2gambartabel1">
+        Sumber: Kusky, 2008
+    </string>
+
 
     <string name="txtST2aplikasi">
         Kamu tentu telah memahami bagaimana prinsip kerja seismograf. Cobalah untuk menjawab pertanyaan berikut dengan menerapkan pemahaman yang telah kamu peroleh pada kegiatan pembelajaran sebelumnya!
@@ -573,54 +424,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <string name="txtST3tujuan">
         Tujuan Pembelajaran	:
         \n Melalui kegiatan diskusi dan simulasi, peserta didik dapat:
@@ -659,32 +462,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     <string name="txtST3pendahuluan3">
         Setelah kamu membaca teks berita di atas, dapatkah kamu menganalisis apa saja dampak gempa bumi  bagi masyarakat! Tuliskan jawaban logismu dalam kotak “Aku Tahu” berikut.
     </string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <string name="txtST3pengembangan1">
@@ -786,41 +563,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="txtST3aplikasi">
         Berdasar isu pada bagian pendahuluan, kamu telah mengetahi bahwa gempa bumi pada tanggal 27 Mei 2006 di Yogyakarta telah memakan banyak korban jiwa dan kerugian harta benda.
  
@@ -828,19 +570,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
  
         \n\n Jika terdapat sebuah pernyataan “ Ketika terjadi gempa bumi pada tanggal 27 Mei 2006, masyarakat belum memiliki kesiapsiagaan dalam menghadapi bencana gempa bumi.” Setujukah kamu dengan pernyataan tersebut? Mengapa?
     </string>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <string name="txtST3pemantapan">
@@ -884,41 +613,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="txtst1rangkuman">
         1. Gempa bumi adalah berguncangnya bumi yang disebabkan oleh pergerakan lempeng bumi, aktivitas gunung api atau runtuhnya bangunan.
         \n 2. Bagian permukaan bumi tersusun atas kerak bumi yang terdiri dari lempeng benua dan lempeng samudera. Mantel bumi yang mengelilingi inti bumi adalah penyusun bagian dalam bumi.
@@ -932,11 +626,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     \n 10. Sesar yang terbentuk diantaranya adalah sesar normal, sesar terbalik dan sesar geser.
     \n 11. Indonesia terletak dipertemuan tiga lempeng, yaitu lempeng Eurasia, lempeng indo Australia dan lempeng pasifik. Akibatnya, Indonesia menjadi Negara yang rawan bencana geologi.
     </string>
-
-
-
-
-
 
 
 </resources>
