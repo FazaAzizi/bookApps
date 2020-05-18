@@ -394,16 +394,16 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     <string name="txtST2aplikasi">
         Kamu tentu telah memahami bagaimana prinsip kerja seismograf. Cobalah untuk menjawab pertanyaan berikut dengan menerapkan pemahaman yang telah kamu peroleh pada kegiatan pembelajaran sebelumnya!
 
-        \n \n 1. Menurutmu, apakah para ilmuwan saat ini dapat menentukan arah sumber gempa bumi? Jika “ya”, bagaimana cara ilmuan menentukan arah sumber gempa bumi?
-        \n 2. Berdasar hasil pengamatan, diperoleh grafik pada seismograf sebagai berikut,
-        \n a. Dapatkah kamu membedakan gelombang P, gelombang S, dan gelombang permukaan pada grafik di atas?
-        \n b. Berdasar grafik di atas, isilah pernyataan berikut dengan benar!
-        \n 1) Gelombang P datang pada interval menit ke … sampai menit ke …
-        \n 2) Gelombang S datang pada interval menit ke … sampai menit ke …
-        \n 3) Gelombang Permukaan datang pada interval menit ke … sampai menit ke …
-        \n c. Mengapa gelombang P lebih dulu terekam seismograf daripada  Gelombang S? Jelaskan jawabanmu!
-        \n d. Mengapa gelombang badan lebih dulu terekam seismograf daripada gelombang permukaan? Jelaskan jawabanmu!
-        \n e. Berdasar grafik di atas, apakah perbedaan antara amplitudo gelombang badan dengan amplitudo gelombang permukaan? Apa dampak yang ditimbulkan dari perbedaan amplitude tersebut?
+        \n\n1. Menurutmu, apakah para ilmuwan saat ini dapat menentukan arah sumber gempa bumi? Jika “ya”, bagaimana cara ilmuan menentukan arah sumber gempa bumi?
+        \n\n2. Berdasar hasil pengamatan, diperoleh grafik pada seismograf sebagai berikut,
+        \n\na. Dapatkah kamu membedakan gelombang P, gelombang S, dan gelombang permukaan pada grafik di atas?
+        \n\nb. Berdasar grafik di atas, isilah pernyataan berikut dengan benar!
+        \n  1) Gelombang P datang pada interval menit ke … sampai menit ke …
+        \n  2) Gelombang S datang pada interval menit ke … sampai menit ke …
+        \n  3) Gelombang Permukaan datang pada interval menit ke … sampai menit ke …
+        \n\nc. Mengapa gelombang P lebih dulu terekam seismograf daripada  Gelombang S? Jelaskan jawabanmu!
+        \n\nd. Mengapa gelombang badan lebih dulu terekam seismograf daripada gelombang permukaan? Jelaskan jawabanmu!
+        \n\ne. Berdasar grafik di atas, apakah perbedaan antara amplitudo gelombang badan dengan amplitudo gelombang permukaan? Apa dampak yang ditimbulkan dari perbedaan amplitude tersebut?
     </string>
 
     <string name="txtST2rangkuman">
