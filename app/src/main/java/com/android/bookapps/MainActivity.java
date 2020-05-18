@@ -34,6 +34,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void Subtema3(View view){
+        Intent intent = new Intent(MainActivity.this, SubTema3Activity.class);
+        startActivity(intent);
+    }
+
     public void pengantar(View view){
         Intent intent = new Intent(MainActivity.this, PengantarActivity.class);
         startActivity(intent);

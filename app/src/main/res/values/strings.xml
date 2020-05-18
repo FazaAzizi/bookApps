@@ -436,6 +436,10 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n 6.  Mensimulasikan tindakan yang harus dilakukan ketika terjadi gempa bumi dengan benar
     </string>
 
+
+
+
+
     <string name="txtST3pendahuluan1">
         Bacalah teks berikut dengan cermat!
     </string>
@@ -525,7 +529,9 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n e. Perhatikan sistem peringatan dini gempa bumi. Sistem peringatan dini merupakan tanda peringatan dan penyebaran informasi akan terjadinya bencana sehingga masyarakat dapat melakukan tindakan untuk mengurangi korban jiwa, harta benda dan kerusakan lingkungan.
         \n f. Simpan nomor-nomor penting yang dapat dihubungi saat terjadi gempa bumi, seperti tim SAR, pemadam kebakaran, kantor polisi maupun instansi pemerintah lain.
         \n g. Selalu berdoa supaya Tuhan menjaga kita dari segala bahaya.
+        </string>
 
+    <string name="txtST3pengembangan7">
         \n\n 2. Upaya saat mengahadapi gempa bumi
         \n Ketika terjadi gempa bumi, kamu harus mengetahui hal-hal apa saja yang harus kamu lakukan, diantaranya sebagai berikut.
 
