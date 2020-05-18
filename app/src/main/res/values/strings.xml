@@ -585,8 +585,8 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
 
     <string name="txtST3pemantapan2">
         Info Sains
-        \n\n Aplikasi Info BMKG untuk smartphone
-        \n My Shake, Alat Pendeteksi Dini Gempa Bumi Untuk Smartphone
+        \n\nAplikasi Info BMKG untuk smartphone
+        \nMy Shake, Alat Pendeteksi Dini Gempa Bumi Untuk Smartphone
 
         \n\n Aplikasi “My Shake”diciptakan berdasarkan pengalaman gempa bumi dan tsunami di Jepang. Dengan memanfaatkan akselerometer yang ada dalam perangkat ponsel pintar, aplikasi ini mengumpulkan data dalam jumlah besar.
     </string>
@@ -596,7 +596,7 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n Sumber: androidpit.es
     </string>
 
-    <string name="txtSTpemantapan3">
+    <string name="txtST3pemantapan3">
         BERKELEY, CALIFORNIA- Ketika gempa bumi mengguncang, setiap detik sangat berarti. Demikian keadaannya lima tahun yang lalu ketika gempa berskala 9 SR memicu gelombang tsunami dahsyat yang menghancurkan Jepang.
  
         \n\n Jejaring seismologi langsung aktif dan mengeluarkan peringatan dini, namun gelombang dahsyat tersebut tetap menewaskan hamper 16.000 orang dan menyebabkan kurang lebih kerugian senilai US$300 milyar (sekitar RP 3.930 trilyun).
