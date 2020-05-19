@@ -6,21 +6,18 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.android.bookapps.MainActivity;
 import com.android.bookapps.R;
-import com.android.bookapps.SubTema1Activity;
 
-public class St1PendahuluanActivity extends AppCompatActivity {
+public class St1PendahuluanAkutahuActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_st1_pendahuluan);
-
+        setContentView(R.layout.activity_st1_pendahuluan_akutahu);
     }
 
-    public void nextah1(View view){
-        Intent intent = new Intent(St1PendahuluanActivity.this, St1PendahuluanAkutahuActivity.class);
+    public void backah2(View view){
+        Intent intent = new Intent(St1PendahuluanAkutahuActivity.this, St1PendahuluanActivity.class);
         startActivity(intent);
     }
 }
