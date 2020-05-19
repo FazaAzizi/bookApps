@@ -83,7 +83,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan3"/>
+                    android:text="@string/txtST2pengembangan3GelombangBadan"/>
 
                 <TextView
                     android:justificationMode="inter_word"
@@ -122,7 +122,7 @@
                     android:layout_margin="20dp"
                     android:textColor="@android:color/black"
                     android:textStyle="bold"
-                    android:text="@string/txtST3judulpengembangan1"/>
+                    android:text="@string/txtST3judulpengembangan1Kesiapsiagaan"/>
 
                 <TextView
                     android:justificationMode="inter_word"
@@ -153,7 +153,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan6"/>
+                    android:text="@string/txtST2pengembangan6GelombangPermukaan"/>
 
                 <TextView
                     android:gravity="center_horizontal"

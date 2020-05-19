@@ -52,7 +52,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST1pengembangan1"/>
+                    android:text="@string/txtST1pengembangan1ApaItuGempa"/>
 
 
                 <ImageView
@@ -217,7 +217,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST1pengembangan7"/>
+                    android:text="@string/txtST1pengembangan7ApaSebabLempeng"/>
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -245,7 +245,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST1pengembangan9"/>
+                    android:text="@string/txtST1pengembangan9BagaimanaArah"/>
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="200dp"

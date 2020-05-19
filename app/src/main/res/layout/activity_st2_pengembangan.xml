@@ -74,7 +74,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan3"/>
+                    android:text="@string/txtST2pengembangan3GelombangBadan"/>
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -136,7 +136,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan6"/>
+                    android:text="@string/txtST2pengembangan6GelombangPermukaan"/>
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -211,7 +211,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan9"/>
+                    android:text="@string/txtST2pengembangan9Materi"/>
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
