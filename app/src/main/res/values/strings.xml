@@ -55,7 +55,7 @@
         Apa itu Gempa Bumi?
     </string>
 
-    <string name="txtST1pengembangan1">
+    <string name="txtST1pengembangan1ApaItuGempa">
         Ketika membengkokkan ranting secara perlahan, kamu mengetahui bahwa ranting dapat kembali lagi ke bentuk semula. Tetapi ketika kamu mematahkan ranting hingga patah, tanganmu akan merasakan adanya getaran.
         \n\n Kegiatan “Aku Mencoba” yang telah peserta didik lakukan memberi gambaran terjadinya gempa bumi. Gempa bumi terjadi ketika ada pelepasan energi secara tiba-tiba yang menyebabkan tanah berguncang dan bergetar. Pelepasan energi tersebut muncul sebagai akibat dari tumbukan antar lempeng bumi atau pergerakan lempeng bumi. Gempa bumi tidak hanya disebabkan oleh tumbukan lempeng bumi, tetapi juga dapat disebabkan oleh aktivitas gunung api dan adanya reruntuhan bangunan. Kekuatan gempa bumi akibat aktivitas gunung api dan reruntuhan bangunan relatif kecil, sehingga kita akan memutuskan pembahasan mengenai gempa bumi yang disebabkan karena tumbukan antar lempeng bumi.
     </string>
@@ -134,7 +134,7 @@
         \n Sumber:
     </string>
 
-    <string name="txtST1pengembangan7">
+    <string name="txtST1pengembangan7ApaSebabLempeng">
         Jika merebus air dengan panci, kamu melihat terjadi perputaran antara air yang berada di bagian bawah dengan air yang berada dibagian atas panci. Mengapa air dapat bergerak demikian? Hal tersebut disebabkan adanya aliran konveksi di dalam air. Konveksi adalah perpindahan panas melalui suatu aliran. Ketika api telah memanaskan air bagian bawah, air panas di bagian bawah panci akan memiliki massa jenis yang lebih kecil, air panas dibagian bawah panci kemudian naik ke permukaan panci. Air dingin yang berada dipermukaan panci memiliki massa jenis yang lebih besar, sehingga air dingin di permukaan panci akan turun ke dasar panci. Kejadian tersebut terus berlangsung selama air dipanaskan
     </string>
 
@@ -152,7 +152,7 @@
           Bagaimana gerakan lempeng bumi?
     </string>
 
-    <string name="txtST1pengembangan9">
+    <string name="txtST1pengembangan9BagaimanaArah">
         Kamu telah mengetahui bahwa lempeng bumi ternyata dapat bergerak. Apa akibatnya jika lempeng bumi bergerak?
         \n\n 1. Divergen
         \n Pergerakan divergen terjadi ketika dua lempeng samudera saling menjauh. Pergerakan ini menyebabkan magma dari dalam bumi naik ke atas permukaan, sehingga terbentuk pegunungan tengah samudera. Contohnya adalah pegunungan tengah samudera yang terbentuk di Samudera Atlantik
@@ -281,7 +281,7 @@
         Seismograf terdiri dari gantungan pemberat dengan pensil diujungnya. Ketika gempa bumi terjadi, pensil akan ikut bergetar dan merekam getaran yang berupa gelombang dalam sebuah kertas. Seismograf kemudian mencatat data berupa grafik gelombang gempa (gelombang seismik). Jika kalian melihat grafik pada gambar di atas, gelombang seismik yang tercatat oleh seismograf terdiri dari empat jenis gelombang, yaitu gelombang primer (gelombang p), gelombang sekunder (gelombang s), gelombang love dan gelombang rayleigh.
     </string>
 
-    <string name="txtST2pengembangan3">
+    <string name="txtST2pengembangan3GelombangBadan">
         Tahukah kamu apa yang dimaksud dengan gelombang? Gelombang adalah getaran yang merambat. Gelombang seismik yang menjalar ketika terjadi gempa bumi terdiri dari gelombang badan dan gelombang permukaan. Gelombang badan adalah gelombang yang merambat di dalam perut bumi dan efek kerusakannya cukup kecil. Gelombang badan terdiri dari gelombang primer dan gelombang sekunder.
     </string>
 
@@ -290,6 +290,7 @@
         Gambar 27. Perambatan gelombang seismik di dalam bumi
         \n Sumber: Ammon, 2005
     </string>
+
     <string name="txtST2pengembangan4">
         1. Gelombang Primer (Gelombang P)
         \n Gelombang primer merupakan gelombang yang merambat di dalam bumi yang memiliki kecepatan rambat paling cepat diantara gelombang seismik lain. Gelombang ini bisa melewati medium padat, cair, maupun gas. Gelombang primer merambat dengan menggetarkan bantuan yang ada di dalam bumi searah dengan arah getran yang dimiliki gelombang primer. Oleh karena itu, gelombang primer digolongkan dalam gelombang longitudinal, yang memeiliki arah getaran dan arah rambatan yang sama.
@@ -311,7 +312,7 @@
         Sumber: cyberphysics.co.uk
     </string>
 
-    <string name="txtST2pengembangan6">
+    <string name="txtST2pengembangan6GelombangPermukaan">
         Ketika gempa bumi terjadi, getaran yang sebagian besar kamu rasakan adalah getaran yang berasal dari gelombang permukaan. Gelombang permukaan adalah gelombang primer dan gelombang sekunder yang telah mencapai permukaan bumi. Gelombang permukaan dapat diandaikan seperti gelombang air yang menjalar di atas permukaan bumi.  Gelombang permukaan memiliki waktu penjalaran lebih lambat daripada gelombang badan. Menurut teori ini, gelombang permukaan lebih berpotensi menimbulkan kerusakan di muka bumi daripada gelombang badan. Gelombang permukaan terdiri atas dua tipe, yaitu Gelombang love dan gelombang Rayleigh.
     </string>
 
@@ -345,7 +346,7 @@
 
     </string>
 
-    <string name="txtST2pengembangan9">
+    <string name="txtST2pengembangan9Materi">
     Peserta didik telah mengetahui perbedaan gelombang badan dan gelombang permukaan. Cobalah untuk memperhatikan kembali gambar gelombang permukaan! Gambar tersebut menunjukkan bahwa amplitudo gelombang permukaan lebih besar daripada gelombang badan. Oleh karena itu, gelombang permukaan lebih banyak kita rasakan ketika terjadi gempa bumi.
     </string>
 
@@ -469,7 +470,7 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
-    <string name="txtST3pengembangan1">
+    <string name="txtST3pengembangan1Pembukaan1">
         Kamu telah mengetahui dampak benca gempa bumi bagi masyarakat. Gempa bumi tidak hanya mengakibatkan kerugian harta benda, tetapi juga korban jiwa. Tetapi, tahukah kamu mengapa di Indonesia sering terjadi bencana gempa bumi? Hubungkan jawabanmu dengan letak geografis Indonesia, lalu tuliskan jawabanmu dalam kotak yang telah disediakan!
     </string>
 
@@ -478,16 +479,16 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n Sumber: mahalindonesia.blogspot.com
     </string>
 
-    <string name="txtST3pengembangan2">
+    <string name="txtST3pengembangan2Pembukaan2">
         Secara geografis, Indonesia terletak diantara tiga lempeng aktif di dunia, yaitu lempeng Eurasia, Indo-Australia dan Pasifik. Letak geografis tersebut menyebabkan Indonesia rentan terhadap bencana geologis, seperti gempa bumi. Gempa bumi di Indonesia merupakan fenomena alam yang dapat terjadi kapanpun sebagai dampak negatiF dari letak geografis Indonesia. Bacalah “Info Sains” berikut untuk lebih memahami kerentanan tanah akibat gempa bumi di daerahmu!
     </string>
 
-    <string name="txtST3pengembangan3">
+    <string name="txtST3pengembangan3Pembukaan3">
         Info Sains
         \n\n Nilai Nilai Kerentanan Tanah Akibat Gempa Bumi di Kabupaten Sleman
     </string>
 
-    <string name="txtST3pengembangan4">
+    <string name="txtST3pengembangan4Pembukaan4">
         Pulau Jawa termasuk dalam daerah pertemuan lempeng antara lempeng Eurasia dan lempeng Indo-Australia. Pertemuan lempeng tersebut mengakibatkan Pulau Jawa sangat rentan terhadap gempa bumi. Kerentanan permukaan tanah saat terjadi gempa bumi dapat dijelaskan dengan nilai kerentanan tanah akibat gempa bumi. Wilayah yang memiliki nilai kerentanan tanah akibat gempa bumi tinggi berarti tanah di wilayah tersebut rentan mengalami perubahan dalam bentuk rekahan akibat gempa bumi.
         \n\n Menurut Joko Lelono selaku Kepala Seksi Mitigasi Bencana Badan Penganggulangan Bencana Daerah (BPBD) Kabupaten Sleman dalam pemetaan kajian risiko gempa bumi mengacu pada wilayah yang masuk pada jalur Sesar Opak. Ada tiga kecamatan yang berada di zona merah yaitu 500 meter dari jalur Sesar Opak meliputi Kecamatan Prambanan, Berbah, dan Kalasan.  Dari ketiga kecamatan tersebut kecamatan yang paling rentan adalah kecamatan Berbah. Karena selain masuk jalur sesar opak, kecamatan berbah juga berada pada persentuhan batuan alluvial merapi. Pada Gempa Bumi 2006 silam, Kecamatan Berbah terkena dampak paling parah. Korban jiwa mencapai ribuan dan di Desa Jogotirto, Berbah bangunan hampir rata.
     </string>
@@ -496,7 +497,7 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         Diadopsi dari news.harianjogja.com (DIY Tidak Belajar dari Gempa 2006)
     </string>
 
-    <string name="txtST3judulpengembangan1">
+    <string name="txtST3judulpengembangan1Kesiapsiagaan">
         Kesiapsiagaan Bencana
     </string>
 
@@ -505,7 +506,7 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n Kesiapsiagaan bencana adalah segala tindakan/aktivitas yang bertujuan untuk mempersiapkan diri jika terjadi bencana guna menghindari dan mengurangi jatuhnya korban jiwa dan kerugian harta benda
     </string>
 
-    <string name="txtST3pengembangan6">
+    <string name="txtST3pengembangan6UpayaSebelum">
         Upaya untuk menghindari dan mengurangi jatuhnya korban jiwa dan harta benda dapat dilakukan sebelum, saat dan sesudah gempa bumi terjadi.
 
         \n\n 1. Upaya sebelum gempa bumi
@@ -531,7 +532,7 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n g. Selalu berdoa supaya Tuhan menjaga kita dari segala bahaya.
         </string>
 
-    <string name="txtST3pengembangan7">
+    <string name="txtST3pengembangan7UpayaSaat">
         \n\n 2. Upaya saat mengahadapi gempa bumi
         \n Ketika terjadi gempa bumi, kamu harus mengetahui hal-hal apa saja yang harus kamu lakukan, diantaranya sebagai berikut.
 
@@ -550,8 +551,10 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n d. Jika kamu sedang berkendara, berhenti kemudian keluar dari kendaraan.
         \n e. Jika kamu berada diluar ruangan, jauhi bangunan, tiang listrik dan benda lain yang berpotensi roboh.
         \n f. Menjauh dari kawasan pegunungan yang berpotensi longsor dan dari kawasan pantai yang berpotensi tsunami.
+    </string>
 
-        \n\n 3. Upaya setelah terjadi gempa bumi
+    <string name="txtST3pengembangan8UpayaSetelah">
+        3. Upaya setelah terjadi gempa bumi
         \n a. Jika kamu masih berada di dalam ruang, segeralah keluar dengan teratur. Tutup hidung dan mulutmu dengan masker atau kain supaya pernafasnmu tidak terganggu oleh debu reruntuhan bangunan. Jika kamu terjebak di dalam ruangan, gunakan telepon untuk meminta pertolongan. Jika telepon tidak berfungsi, gunakan isyarat lain untuk menandakan bahwa kamu membutuhkan pertolongan, misalnya bunyikan peluit atau pukul benda-benda yang ada di sekitarmu.
         \n b. Pastikan tidak ada tabung gas yang bocor dan korsleting arus listrik karena dapat menimbulkan kebakaran. Lebih baik jika kamu segera melepas tabung gas dari regulatornya dan mematikan arus listrik.
         \n c. Periksa kondisi dirimu, keluarga dan sekitar, apakah ada yang membutuhkan pertolongan? Berikan pertolongan pertama kepada orang-orang yang mengalami cedera saat terjadi gempa bumi besar.
