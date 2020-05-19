@@ -17,12 +17,19 @@
         android:layout_marginTop="32dp"
         android:text="Pengantar" />
     <TextView
-
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="@android:color/black"
         android:layout_margin="16dp"
         android:justificationMode="inter_word"
         android:text="@string/pengantar" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:layout_margin="16dp"
+        android:justificationMode="inter_word"
+        android:text="@string/penyusun" />
+
 
 </LinearLayout>

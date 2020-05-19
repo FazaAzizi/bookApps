@@ -52,7 +52,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan1"/>
+                    android:text="@string/txtST3pengembangan1Pembukaan1"/>
 
                 <TextView
                     android:gravity="center_horizontal"
@@ -75,23 +75,24 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan2"/>
+                    android:text="@string/txtST3pengembangan2Pembukaan2"/>
 
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
+                    android:textStyle="bold"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan3GelombangBadan"/>
+                    android:text="@string/txtST3pengembangan3Pembukaan3"/>
 
                 <TextView
-                    android:justificationMode="inter_word"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan4"/>
+                    android:justificationMode="inter_word"
+                    android:text="@string/txtST3pengembangan4Pembukaan4"
+                    android:textColor="@android:color/black" />
 
                 <TextView
                     android:gravity="center_horizontal"
@@ -115,6 +116,7 @@
                     android:layout_height="200dp"
                     android:scaleType="fitCenter"
                     android:src="@drawable/st3gambartabelkuning3" />
+
                 <TextView
                     android:justificationMode="inter_word"
                     android:layout_width="match_parent"
@@ -130,7 +132,31 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan5"/>
+                    android:text="@string/txtST3pengembangan5"/>
+
+                <TextView
+                    android:justificationMode="inter_word"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    android:textColor="@android:color/black"
+                    android:text="@string/txtST3pengembangan6UpayaSebelum"/>
+
+                <TextView
+                    android:justificationMode="inter_word"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    android:textColor="@android:color/black"
+                    android:text="@string/txtST3pengembangan7UpayaSaat"/>
+
+                <TextView
+                    android:justificationMode="inter_word"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    android:textColor="@android:color/black"
+                    android:text="@string/txtST3pengembangan8UpayaSetelah"/>
 
                 <TextView
                     android:gravity="center_horizontal"
@@ -176,7 +202,9 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:textColor="@android:color/black"
-                    android:text="@string/txtST2pengembangan7"/>
+                    android:text="@string/txtST3pengembangan4Pembukaan4"/>
+
+
 
             </LinearLayout>
         </ScrollView>
