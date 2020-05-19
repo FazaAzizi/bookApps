@@ -52,13 +52,17 @@ public class MainActivity extends AppCompatActivity {
                 Activity selectedActivity = null;
                 switch(id)
                 {
-                    case R.id.tips1:
+                    case R.id.beranda:
+                        berandaa();
                         break;
-                    case R.id.gym1:
+                    case R.id.kikd:
+                        kikdd();
                         break;
-                    case R.id.trainer1:
+                    case R.id.sets:
+                        setss();
                         break;
-                    case R.id.cp1:
+                    case R.id.video:
+                        videoo();
                         break;
                     default:
                         return true;
@@ -69,6 +73,26 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+    }
+
+    public void berandaa(){
+        Intent intent = new Intent(MainActivity.this, MainActivity.class);
+        startActivity(intent);
+    }
+
+    public void setss(){
+        Intent intent = new Intent(MainActivity.this, SetsActivity.class);
+        startActivity(intent);
+    }
+
+    public void kikdd(){
+        Intent intent = new Intent(MainActivity.this, KiKdActivity.class);
+        startActivity(intent);
+    }
+
+    public void videoo(){
+        Intent intent = new Intent(MainActivity.this, VideoActivity.class);
+        startActivity(intent);
     }
 
     @Override

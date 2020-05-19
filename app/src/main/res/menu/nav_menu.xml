@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="single">
-        <item android:id="@+id/tips1"
+        <item android:id="@+id/beranda"
             android:icon="@drawable/ic_home_black_24dp"
             android:title="Home"/>
-        <item android:id="@+id/gym1"
+        <item android:id="@+id/kikd"
             android:icon="@drawable/ic_kikd"
             android:title="KI/KD"/>
-        <item android:id="@+id/trainer1"
+        <item android:id="@+id/sets"
             android:icon="@drawable/ic_web"
             android:title="Sets"/>
-        <item android:id="@+id/cp1"
+        <item android:id="@+id/video"
             android:icon="@drawable/ic_video"
             android:title="Video"/>
     </group>
