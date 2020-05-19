@@ -4,4 +4,12 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="bkg">#D5D5D5</color>
+
+    <color name="or">#FF9400</color>
+    <color name="gr">#ABA59D</color>
+    <color name="wh">#FFFFFF</color>
+    <color name="bl">#000000</color>
+
+
+
 </resources>

@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">bookApps</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+
+
     <string name="pengantar">Puji syukur senantiasa penyusun panjatkan atas kehadirat Allah SWT yang telah melimpahkan rahmad, taufiq, dan hidayah-Nya sehingga penyusun dapat menyelesaikan penyusunan E-modul IPA berbasis Science, Environment, Technology and Society (SETS) dengan tema “Pemahaman Konsep dan Kesiapsiagaan Bencana Gempa Bumi”.
         Tujuan pembuatan e-modul ini adalah untuk membantu Guru dalam menyampaikan pembelajaran pada materi Struktur Bumi dan Dinamikanya. Selanjutnya, emodul ini juga diharapkan dapat meningkatkan pemahaman konsep dan kesiapsiagaan bencana gempa bumi peserta didik.
         \n E-modul ini dirancang untuk pembelajaran di kelas VII SMP/MTs semester II pada lembaga pendidikan yang telah menerapkan kurikulum 2013. E-modul berbasis SETS ini dipilih untuk meningkatkan pemahaman konsep dan sikap kesiapsiagaan bencana gempa bumi peserta didik berdasar potensi bencana yang terjadi di wilayahnya.
