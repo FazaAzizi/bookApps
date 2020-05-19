@@ -643,4 +643,64 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
+    <string name="txtST1soal1">
+        1. Struktur bumi terdiri dari lapisan ….
+    </string>
+    <string name="txtST1soal2">
+        2. Bagian bumi yang ditunjukkan oleh nomor 1 dan 3 adalah ….
+    </string>
+    <string name="txtST1soal3">
+        3.	Perhatikan pernyataan berikut!
+        \n(1)	Pergeseran lempeng bumi
+        \n(2)	Kegiatan tambang yang berlebihan
+        \n(3)	Tumbukan antar lempeng bumi
+        \n(4)	Akibat terjadinya banjir bandang
+        \n\nPernyataan di atas yang merupakan penyebab terjadinya gempa bumi adalah….
+
+    </string>
+    <string name="txtST1soal4">
+        4.	Gempa bumi adalah ….
+    </string>
+    <string name="txtST1soal5">
+        5.	Bagian lapisan bumi yang bersifat plastis sehingga menyebabkan lapisan di atasnya bergerak …
+    </string>
+    <string name="txtST1soal6">
+        6.	Pada awalnya, bumi menjadi satu daratan sangat luas yang disebut Pangeae. Teori ini merupakan teori …. Yang dikemukakan oleh Alfred Wegener.
+    </string>
+    <string name="txtST1soal7">
+        7.	Teori seafloor spreading dikemukakan oleh ….
+    </string>
+    <string name="txtST1soal8">
+        8.	Teori tektonik lempeng menjelaskan bahwa ….
+    </string>
+    <string name="txtST1soal9">
+        9.	Perhatikan pernyataan berikut!
+        \n(1)	Lempeng bumi bersifat statis
+        \n(2)	Lempeng bumi saling bergerak
+        \n(3)	Lempeng bumi berada dalam Pangeae
+        \n(4)	Lempeng bumi saling bertabrakan satu sama lain
+        \n\nAkibat adanya aliran konveksi di dalam perut bumi adalah ….
+
+    </string>
+    <string name="txtST1soal10">
+        10.	Gambar di atas menjelaskan bahwa pergerakan lempeng bumi disebabkan karena ….
+    </string>
+    <string name="txtST1soal11">
+        11. Jenis peregerakan lempeng yang terjadi pada titik A adalah ….
+    </string>
+    <string name="txtST1soal12">
+        12. Jenis pergerakan lempeng yang terjadi pada titik B adalah ….
+    </string>
+    <string name="txtST1soal13">
+        13. Berdasar peta pergerakan lempeng di atas, gerakan lempeng yang terjadi antara Lempeng Pasifik dengan Lempeng Indo Australia adalah ….
+    </string>
+    <string name="txtST1soal14">
+        14. Gambar sesar di samping termasuk dalam jenis sesar ….
+    </string>
+    <string name="txtST1soal15">
+        15. Akibat negative dari letak geografis Indonesia yang berada di pertemuan tiga lempeng bumi adalah ….
+    </string>
+
+
+
 </resources>

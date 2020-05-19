@@ -9,12 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".st1.St1ResultActivity"></activity>
         <activity android:name=".SplashActivity">
-                <intent-filter>
-                    <action android:name="android.intent.action.MAIN" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-                    <category android:name="android.intent.category.LAUNCHER" />
-                </intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity android:name=".VideoActivity" />
         <activity android:name=".SetsActivity" />
@@ -42,7 +43,7 @@
         <activity android:name=".st2.St2RangkumanActivity" />
         <activity android:name=".st2.St2PendahuluanActivity" />
         <activity android:name=".SubTema2Activity" />
-        <activity android:name=".MainActivity"/>
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>
