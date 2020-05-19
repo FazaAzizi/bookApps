@@ -52,14 +52,6 @@ public class MainActivity extends AppCompatActivity {
                 Activity selectedActivity = null;
                 switch(id)
                 {
-                    case R.id.login:
-                        break;
-//                    case R.id.about:
-//                        about();
-//                        break;
-//                    case R.id.help:
-//                        help();
-//                        break;
                     case R.id.tips1:
                         break;
                     case R.id.gym1:

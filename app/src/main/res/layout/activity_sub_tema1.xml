@@ -5,32 +5,39 @@
     xmlns:card_view="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/bkg"
+    android:background="@color/or"
     android:orientation="vertical"
 
     tools:context=".SubTema1Activity">
 
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:text="SUB Tema 1"
-        android:textSize="24sp" />
+        android:layout_height="300dp"
+        android:orientation="vertical">
 
-    <TextView
-        android:justificationMode="inter_word"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/txtST1"
-        android:textSize="16sp"
-        android:layout_margin="16dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textColor="@color/bl"
+            android:text="SUB Tema 1"
+            android:textSize="24sp" />
 
+        <TextView
+            android:justificationMode="inter_word"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtST1"
+            android:textColor="@color/bl"
+            android:textSize="14sp"
+            android:layout_margin="32dp"/>
+    </LinearLayout>
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="50dp"
-        android:layout_marginBottom="-16dp"
-        app:cardCornerRadius="70dp">
+        android:layout_marginBottom="-70dp"
+        android:paddingBottom="-90dp"
+        app:cardCornerRadius="60dp">
 
         <ScrollView
             android:layout_width="match_parent"
@@ -62,7 +69,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st1pendahuluanmtd"
-                        app:cardBackgroundColor="@color/colorPrimary"
+                        app:cardBackgroundColor="#FFBF00"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
@@ -94,7 +101,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st1pengembanganmtd"
-                        app:cardBackgroundColor="@color/colorPrimary"
+                        app:cardBackgroundColor="#FFBF00"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
@@ -132,20 +139,22 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st1aplikasimtd"
-                        app:cardBackgroundColor="@color/colorPrimary"
+                        app:cardBackgroundColor="#FFBF00"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
+
                         <LinearLayout
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            android:orientation="vertical"
-                            android:gravity="center_vertical">
+                            android:layout_height="145dp"
+                            android:gravity="center_vertical"
+                            android:orientation="vertical">
+
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center_horizontal"
-                                android:text="Aplikasi"/>
+                                android:text="Aplikasi" />
 
                         </LinearLayout>
 
@@ -162,7 +171,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st1pemantapanmtd"
-                        app:cardBackgroundColor="@color/colorPrimary"
+                        app:cardBackgroundColor="#FFBF00"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
@@ -199,7 +208,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st1rangkumanmtd"
-                        app:cardBackgroundColor="@color/colorPrimary"
+                        app:cardBackgroundColor="#FFBF00"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
@@ -229,7 +238,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st1penilaianmtd"
-                        app:cardBackgroundColor="@color/colorPrimary"
+                        app:cardBackgroundColor="#FFBF00"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">

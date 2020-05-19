@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
-
     <group android:checkableBehavior="single">
         <item android:id="@+id/tips1"
-            android:title="Edukasi"/>
+            android:title="Home"/>
         <item android:id="@+id/gym1"
-            android:title="Profile gym"/>
+            android:title="KI/KD"/>
         <item android:id="@+id/trainer1"
-            android:title="Personal trainer"/>
+            android:title="Sets"/>
         <item android:id="@+id/cp1"
-
-            android:title="Contact person"/>
+            android:title="Video"/>
     </group>
-    <item android:title="Communicate">
-        <menu>
-            <item android:id="@+id/login"
-                android:title="Login"/>
-<!--            <item android:id="@+id/about"-->
-<!--                android:title="About"/>-->
-<!--            <item android:id="@+id/help"-->
-<!--                android:title="Help"/>-->
-        </menu>
-
-
-    </item>
-
-
-
-
-
 </menu>
