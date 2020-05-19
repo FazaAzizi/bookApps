@@ -25,7 +25,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Rangkuman"
+            android:text="Pengaplikasian"
             android:layout_gravity="center"
             android:textColor="@color/bl"
             android:textSize="24sp"
