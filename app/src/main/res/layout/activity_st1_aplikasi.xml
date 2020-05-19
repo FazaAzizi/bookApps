@@ -6,67 +6,90 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/bkg"
+    android:background="#FFBF00"
     tools:context=".st1.St1AplikasiActivity">
 
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Aplikasi"
-        android:textSize="24sp"
-        android:gravity="center_horizontal"/>
+        android:layout_height="60dp"
+        android:background="@color/bl"/>
+
     <androidx.cardview.widget.CardView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_margin="8dp"
-        android:padding="8dp"
-        app:cardCornerRadius="70dp"
-        app:cardBackgroundColor="@android:color/white"
-        android:paddingBottom="32dp"
-        card_view:cardElevation="6dp"
-        card_view:cardPreventCornerOverlap="false"
-        >
-        <ScrollView
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="-40dp"
+        app:cardCornerRadius="30dp"
+        app:cardBackgroundColor="@color/or">
+        <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_margin="8dp"
-            android:paddingBottom="32dp">
+            android:layout_height="wrap_content"
+            android:text="Pengaplikasian"
+            android:layout_gravity="center"
+            android:textColor="@color/bl"
+            android:textSize="24sp"
+            android:gravity="center_horizontal"/>
+    </androidx.cardview.widget.CardView>
 
 
-            <LinearLayout
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
+                android:layout_margin="8dp"
+                app:cardCornerRadius="40dp">
 
-
-                <TextView
-                    android:justificationMode="inter_word"
+                <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1aplikasi"/>
+                    android:orientation="vertical"
+                    android:layout_margin="16dp">
 
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/st1gambar20" />
-                <TextView
-                    android:gravity="center_horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"
-                    android:text="@string/txtST1gambar20"/>
+                    <TextView
+                        android:justificationMode="inter_word"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="8dp"
+                        android:textColor="@android:color/black"
+                        android:text="@string/txtST1aplikasi"/>
 
 
-            </LinearLayout>
-        </ScrollView>
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/st1gambar20" />
+                    <TextView
+                        android:gravity="center_horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="8dp"
+                        android:textColor="@android:color/black"
+                        android:text="@string/txtST1gambar20"/>
 
-    </androidx.cardview.widget.CardView>
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
 
 
 
