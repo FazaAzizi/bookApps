@@ -939,4 +939,14 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \nPergerakan lempeng bumi yang bergerak saling berpapasan satu sama lain
     </string>
 
+    <string name="dospem">
+        Prof. Dr. Jumadi, M.Pd
+    </string>
+
+    <string name="w1">
+        Untuk
+        \nKelas 7
+        \nSMP/MTS
+    </string>
+
 </resources>
