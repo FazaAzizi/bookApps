@@ -12,34 +12,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="300dp"
-        android:orientation="vertical">
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center_horizontal"
-            android:textColor="@color/bl"
-            android:text="SUB Tema 1"
-            android:textSize="24sp" />
-
-        <TextView
-            android:justificationMode="inter_word"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/txtST1"
-            android:textColor="@color/bl"
-            android:textSize="14sp"
-            android:layout_marginRight="16dp"
-            android:layout_marginLeft="16dp"
-            android:layout_marginTop="32dp"/>
-    </LinearLayout>
-    <androidx.cardview.widget.CardView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginBottom="-70dp"
-        android:paddingBottom="-90dp"
-        app:cardCornerRadius="60dp">
+        android:layout_height="wrap_content">
 
         <ScrollView
             android:layout_width="match_parent"
@@ -47,9 +20,56 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/bl"
+                    android:text="SUB Tema 1"
+                    android:paddingTop="20dp"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:justificationMode="inter_word"
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:text="@string/txtST1"
+                    android:textColor="@color/bl"
+                    android:textSize="14sp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"/>
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="-70dp"
+        android:paddingBottom="-90dp"
+        app:cardCornerRadius="40dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="-40dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:gravity="center"
                 android:paddingBottom="32dp"
+                android:paddingTop="40dp"
                 android:orientation="vertical">
 
                 <LinearLayout
@@ -58,12 +78,9 @@
                     android:gravity="center_horizontal"
                     android:orientation="horizontal">
 
-
-
-
                     <androidx.cardview.widget.CardView
-                        android:layout_width="150dp"
-                        android:layout_height="150dp"
+                        android:layout_width="125dp"
+                        android:layout_height="125dp"
                         android:layout_gravity="center"
                         android:layout_marginLeft="16dp"
                         android:layout_marginTop="16dp"
@@ -94,8 +111,8 @@
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
-                        android:layout_width="150dp"
-                        android:layout_height="150dp"
+                        android:layout_width="125dp"
+                        android:layout_height="125dp"
                         android:layout_gravity="center"
                         android:layout_marginLeft="8dp"
                         android:layout_marginTop="16dp"
@@ -132,8 +149,8 @@
                     android:orientation="horizontal">
 
                     <androidx.cardview.widget.CardView
-                        android:layout_width="150dp"
-                        android:layout_height="150dp"
+                        android:layout_width="125dp"
+                        android:layout_height="125dp"
                         android:layout_gravity="center"
                         android:layout_marginLeft="16dp"
                         android:layout_marginTop="16dp"
@@ -164,8 +181,8 @@
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
-                        android:layout_width="150dp"
-                        android:layout_height="150dp"
+                        android:layout_width="125dp"
+                        android:layout_height="125dp"
                         android:layout_gravity="center"
                         android:layout_marginLeft="8dp"
                         android:layout_marginTop="16dp"
@@ -201,8 +218,8 @@
                     android:orientation="horizontal">
 
                     <androidx.cardview.widget.CardView
-                        android:layout_width="150dp"
-                        android:layout_height="150dp"
+                        android:layout_width="125dp"
+                        android:layout_height="125dp"
                         android:layout_gravity="center"
                         android:layout_marginLeft="16dp"
                         android:layout_marginTop="16dp"
@@ -231,8 +248,8 @@
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
-                        android:layout_width="150dp"
-                        android:layout_height="150dp"
+                        android:layout_width="125dp"
+                        android:layout_height="125dp"
                         android:layout_gravity="center"
                         android:layout_marginLeft="8dp"
                         android:layout_marginTop="16dp"
