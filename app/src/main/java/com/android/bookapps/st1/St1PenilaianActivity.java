@@ -43,6 +43,8 @@ public class St1PenilaianActivity extends AppCompatActivity {
         st1sbmt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+
                 int st1point1 = st1rgp1.getCheckedRadioButtonId();
                 st1vl1 = (RadioButton) findViewById(st1point1);
 
@@ -89,7 +91,7 @@ public class St1PenilaianActivity extends AppCompatActivity {
                 st1vl15 = (RadioButton) findViewById(st1point15);
 
 
-                int total = 0;
+                float total = 0;
 
 
                 if((st1point1 <= 0)||(st1point2 <= 0)||(st1point3 <= 0)||(st1point4 <= 0)||(st1point5 <= 0)||(st1point6 <= 0)||(st1point7 <= 0)||(st1point8 <= 0)||(st1point9 <= 0)||(st1point10  <=0)||(st1point11 <= 0)||(st1point12 <= 0)||(st1point13 <= 0)||(st1point14 <= 0)||(st1point15 <= 0)){
@@ -105,7 +107,7 @@ public class St1PenilaianActivity extends AppCompatActivity {
                     if (st1vl3.getText().toString().toLowerCase().equals("(1) dan (3)")){
                         total = total + 1;
                     }
-                    if (st1vl4.getText().toString().toLowerCase().equals("getaran pada bumi yang disebabkan oleh pergerakan lempeng bumi secara tiba-tiba ")){
+                    if (st1vl4.getText().toString().toLowerCase().equals("getaran pada bumi yang disebabkan oleh pergerakan lempeng bumi secara tiba-tiba")){
                         total = total + 1;
                     }
                     if (st1vl5.getText().toString().toLowerCase().equals("astenosfer")){
@@ -141,6 +143,8 @@ public class St1PenilaianActivity extends AppCompatActivity {
                     if (st1vl15.getText().toString().toLowerCase().equals("rawan terhadap bencana gempa bumi")){
                         total = total + 1;
                     }
+
+                    total = ((total*2)/3)*10;
                     Intent i = new Intent(St1PenilaianActivity.this, St1ResultActivity.class);
                     i.putExtra("nilai",total);
                     startActivity(i);

@@ -65,7 +65,7 @@
                         android:textSize="16sp" />
 
                     <RadioGroup
-                        android:id="@+id/st2rg1"
+                        android:id="@+id/st3rg1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"
@@ -102,7 +102,7 @@
                         android:textSize="16sp" />
 
                     <RadioGroup
-                        android:id="@+id/st2rg2"
+                        android:id="@+id/st3rg2"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"
@@ -139,7 +139,7 @@
                         android:textSize="16sp" />
 
                     <RadioGroup
-                        android:id="@+id/st2rg3"
+                        android:id="@+id/st3rg3"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"
@@ -177,7 +177,7 @@
                         android:textSize="16sp" />
 
                     <RadioGroup
-                        android:id="@+id/st2rg4"
+                        android:id="@+id/st3rg4"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"
@@ -221,7 +221,7 @@
                         android:text="@string/txtST3soal5"
                         android:textSize="16sp" />
                     <RadioGroup
-                        android:id="@+id/st2rg5"
+                        android:id="@+id/st3rg5"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"
@@ -257,7 +257,7 @@
                         android:text="@string/txtST3soal6"
                         android:textSize="16sp" />
                     <RadioGroup
-                        android:id="@+id/st2rg6"
+                        android:id="@+id/st3rg6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"
@@ -293,7 +293,7 @@
                         android:text="@string/txtST3soal7"
                         android:textSize="16sp" />
                     <RadioGroup
-                        android:id="@+id/st2rg7"
+                        android:id="@+id/st3rg7"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"
@@ -329,7 +329,7 @@
                         android:text="@string/txtST3soal8"
                         android:textSize="16sp" />
                     <RadioGroup
-                        android:id="@+id/st2rg8"
+                        android:id="@+id/st3rg8"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"
@@ -365,7 +365,7 @@
                         android:text="@string/txtST3soal9"
                         android:textSize="16sp" />
                     <RadioGroup
-                        android:id="@+id/st2rg9"
+                        android:id="@+id/st3rg9"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"
@@ -374,22 +374,22 @@
                         <RadioButton
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:src=""
+                            android:text="1"
                             android:checked="false"/>
                         <RadioButton
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Tanda peringatan harus menuju titik evakuasi dan penyebaran informasi bahwa akan terjadi bencana"
+                            android:text="2"
                             android:checked="false"/>
                         <RadioButton
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Tanda peringatan supaya masyarakat waspada dan tidak keluar rumah"
+                            android:text="3"
                             android:checked="false"/>
                         <RadioButton
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Pengumuman hasil telah terjadi bencana, masyarakat "
+                            android:text="4"
                             android:checked="false"/>
                     </RadioGroup>
 
@@ -402,7 +402,7 @@
                         android:text="@string/txtST3soal10"
                         android:textSize="16sp" />
                     <RadioGroup
-                        android:id="@+id/st2rg10"
+                        android:id="@+id/st3rg10"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_marginBottom="32dp"

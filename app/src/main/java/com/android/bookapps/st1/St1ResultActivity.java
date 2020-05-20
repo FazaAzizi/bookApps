@@ -17,9 +17,9 @@ public class St1ResultActivity extends AppCompatActivity {
         setContentView(R.layout.activity_st1_result);
 
         st1nilaii = findViewById(R.id.st1nilai);
-        int total = getIntent().getExtras().getInt("nilai");
-        float nilai = 0;
-        nilai = ((total*2)/3)*10;
-        st1nilaii.setText(String.valueOf(nilai));
+        float total = getIntent().getExtras().getFloat("nilai");
+
+        String n = String.format("%.02f", total);
+        st1nilaii.setText(n);
     }
 }

@@ -189,7 +189,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:checked="false"
-                            android:text="Getaran pada bumi yang disebabkan oleh pergerakan lempeng bumi secara tiba-tiba " />
+                            android:text="Getaran pada bumi yang disebabkan oleh pergerakan lempeng bumi secara tiba-tiba" />
                         <RadioButton
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
