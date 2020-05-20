@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/bkg"
     android:orientation="vertical"
-    tools:context=".KiKdActivity">
+    tools:context=".DapusActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -23,39 +23,17 @@
                 android:gravity="center_horizontal"
                 android:textSize="32sp"
                 android:layout_marginTop="32dp"
-                android:text="Pendahuluan" />
+                android:text="Daftar pustaka" />
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
-                android:gravity="center_horizontal"
-                android:textSize="24sp"
-                android:layout_marginTop="16dp"
-                android:text="@string/txtkikdJudulKI" />
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/black"
                 android:layout_margin="16dp"
                 android:justificationMode="inter_word"
-                android:text="@string/txtkikdisiKI" />
+                android:text="@string/txtdapus" />
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
-                android:gravity="center_horizontal"
-                android:textSize="24sp"
-                android:layout_marginTop="16dp"
-                android:text="@string/txtkikdJudulKD" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
-                android:layout_margin="16dp"
-                android:justificationMode="inter_word"
-                android:text="@string/txtkikdisiKD" />
+
 
         </LinearLayout>
 

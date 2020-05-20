@@ -4,14 +4,16 @@
 
     <application
         android:allowBackup="true"
+        android:hardwareAccelerated="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:largeHeap="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:hardwareAccelerated="false"
-        android:largeHeap="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".st3.st3ResultActivity"></activity>
+        <activity android:name=".DapusActivity"></activity>
+        <activity android:name=".GlosariumActivity" />
+        <activity android:name=".st3.st3ResultActivity" />
         <activity android:name=".st2.St2ResultActivity" />
         <activity android:name=".LoadingPageActivity" />
         <activity android:name=".st1.St1ResultActivity" />

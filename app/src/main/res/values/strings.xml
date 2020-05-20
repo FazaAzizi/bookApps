@@ -659,23 +659,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="txtST1soal1">
         1. Struktur bumi terdiri dari lapisan ….
     </string>
@@ -782,8 +765,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
-
-
     <string name="txtST3soal1">
         1.  Kesiapsiagaan bencana adalah …
     </string>
@@ -833,12 +814,77 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         10.	Salah satu alasan pentingnya menyusun peta jalur evakuasi adalah …
     </string>
 
+<string name="txtdapus">
+    Agung Ismiyanto. 2016. Air Mata Korban Gempa Yogyakarta 2006, Menetas Tak Henti-Henti.
+    \nDiakses dari jogjatribunnews.com
 
+    \n\nAllaby, Michael. 2009. Earth Science: a scientific history of the solid earth. New York: Facts on file, Inc.
 
+    \n\nChaisson, Eric. 2014 Astronomy Today. San Fransisco: Pearson Educat
 
+    \n\nDesta Mayor Andika Putra, Nugoho Budi Wibowo dan Denny Darmawan. 2014. Indeks Kerentanan Seismik Kabupaten K
 
+    \n\nDirektorat Vulkanologi Mitigasi Bencana Geologi
 
+    \n\nElin Yunita Kristanti. 2015.
 
+    \n\nFerianto Raharjo, Yoyong Afriadi, Ade Lisantono dan FX. Nurwadji Wibowo.
 
+    \n\nKusky, Timothy. 2008. Earthquakes. Plate Tectonics and Earthquake Hazards. New York: Facts On File, Inc.
+
+    \n\nM. Irham Nurwidyanto, Tony Yulianto dan Sugeng Widodo. 2010. Pemetaan Sesar Opak dengan Metode Gravity Studi Kasus Daerah Parangtritis dan Sekitarnya.Semarang: HFI Jateng <![CDATA[&]]> DIY
+
+    \n\n<![CDATA[Trefil, James. 2010. The Sciences. An Integrated Approach. New York: John Wiley & Sons, Inc.]]>
+
+    \n\nWahono Widodo, Fida Rachmawadiarti dan Siti Nurul Hidayati. 2016. Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII Semester 2. Jakarta: Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud.
+
+    \n\nWink. Biografi Charles Francis Richter- Penemu Skala Richter
+
+    \n\nZika Zakiya. 2013. Fauna nan Gelisah Sebelum Gempa Bumi.
+    </string>
+
+    <string name="txtglosarium">
+        A
+        \n<b>Amplitudo</b>
+        \nSimpangan terjauh dari titik keseimbangan
+
+        \n\nD
+        \n<b>Divergen </b>
+        \nPergerakan saling menjauhnya lempeng bumi
+
+        \n\nF
+        \n<b>Frekuensi</b>
+        \nJumlah getaran/gelombang yang dihasilkan tiap satu satuan waktu
+
+        \n\nG
+        \n<b>Gelombang</b>
+        \nGetaran yang merambat
+        \n<b>Gelombang Longitudinal</b>
+        \nGelombang yang arah rambatnya searah dengan arah getarannya
+        \n<b>Gelombang Seismik</b>
+        \nGetaran yang merambat di dalam akibat perubahan struktur bumi, tekanan maupun tarikan
+        \n<b>Gelombang Transversal</b>
+        \nGelombang yang arah rambatnya tegak lurus dengan arah getarannya
+        \n<b>Gempa Bumi</b>
+        \nBerguncangnya bumi disebabkan oleh tumbukan antar lempeng bumi, patahan aktif, aktivitas gunung api atau runtuhan bangunan
+
+        \n\nK
+        \n<b>Kesiapsiagaan Bencana</b>
+        \nUpaya yang dilaksanakan untuk mengantisipasi kemungkinan terjadinya bencana guna menghindari jatuhnya korban jiwa, kerugian harta benda dan kerusakan lingkungan
+        \n<b>Konvergen</b>
+        \nGerakan saling bertabrakan lempeng bumi yang menyebabkan satu lempeng bumi menyusup ke perut bumi
+
+        \n\nS
+        \n<b>Sesar</b>
+        \nRekahan sepanjang blok dari kerak bumi yang telah berpindah secara relatif satu sama lain
+        \n<b>Seismograf</b>
+        \nAlat yang digunakan untuk mengukur kekuatan gempa bumi
+        \n<b>Sistem Peringatan Dini</b>
+        \nTanda peringatan dan distribusi informasi akan terjadinya bencana sehingga masyarakat dapat melakukan tindakan yang tepat untuk mengurangi korban jiwa, kerugian harta benda dan kerusakan lingkungan
+
+        \n\nT
+        \n<b>Transform</b>
+        \nPergerakan lempeng bumi yang bergerak saling berpapasan satu sama lain
+    </string>
 
 </resources>

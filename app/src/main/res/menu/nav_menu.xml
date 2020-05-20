@@ -4,6 +4,9 @@
         <item android:id="@+id/beranda"
             android:icon="@drawable/ic_home_black_24dp"
             android:title="Home"/>
+        <item android:id="@+id/peta"
+            android:icon="@drawable/ic_pekon"
+            android:title="Peta konsep"/>
         <item android:id="@+id/kikd"
             android:icon="@drawable/ic_kikd"
             android:title="KI/KD"/>
@@ -13,5 +16,11 @@
         <item android:id="@+id/video"
             android:icon="@drawable/ic_video"
             android:title="Video"/>
+        <item android:id="@+id/dapus"
+            android:icon="@drawable/ic_dapus"
+            android:title="Daftar pustaka"/>
+        <item android:id="@+id/glosarium"
+            android:icon="@drawable/ic_glosarium"
+            android:title="Glosarium"/>
     </group>
 </menu>

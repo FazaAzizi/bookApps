@@ -64,6 +64,12 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.video:
                         videoo();
                         break;
+                    case R.id.dapus:
+                        dapuss();
+                        break;
+                    case R.id.glosarium:
+                        glosariumm();
+                        break;
                     default:
                         return true;
                 }
@@ -94,6 +100,16 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, VideoActivity.class);
         startActivity(intent);
     }
+    public void dapuss(){
+        Intent intent = new Intent(MainActivity.this, DapusActivity.class);
+        startActivity(intent);
+    }
+
+    public void glosariumm(){
+        Intent intent = new Intent(MainActivity.this, GlosariumActivity.class);
+        startActivity(intent);
+    }
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
