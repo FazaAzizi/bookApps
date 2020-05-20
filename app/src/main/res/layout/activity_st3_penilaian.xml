@@ -25,7 +25,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Pemantapan"
+            android:text="Penilaian"
             android:layout_gravity="center"
             android:textColor="@color/bl"
             android:textSize="24sp"
@@ -56,14 +56,387 @@
                     android:orientation="vertical"
                     android:layout_margin="16dp">
 
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal1"
+                        android:textSize="16sp" />
+
+                    <RadioGroup
+                        android:id="@+id/st2rg1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Upaya untuk mengatasi trauma korban bencana, sehingga masyarakat siap untuk melanjutkan kehidupan setelah bencana"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Upaya untuk menghilangkan adanya bencana yang mungkin terjadi di kalangan masyarakat"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Upaya untuk mencegah terjadi bencana sehingga meminimalkan resiko korban jiwa dan kerugian harta benda"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Upaya untuk menumbuhkan kesadaran masyarakat mengenai pentingnya upaya pengurangan resiko bencana"
+                            android:checked="false"/>
+                    </RadioGroup>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal2"
+                        android:textSize="16sp" />
+
+                    <RadioGroup
+                        android:id="@+id/st2rg2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Kerugian harta benda"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Kerugian korban jiwa"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Kerugian investasi perbakan"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Kerusakan sarana prasarana"
+                            android:checked="false"/>
+                    </RadioGroup>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal3"
+                        android:textSize="16sp" />
+
+                    <RadioGroup
+                        android:id="@+id/st2rg3"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Pengetahuan awal masyarakat mengenai gempa bumi kurang memadai"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Kurangnya kesadaran masyarakat dalam upaya pengurangan rsiko gempa bumi"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Sistem peringatan dini bencana gempa bumi yang belum berfungsi dengan baik"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Masyarakat telah memiliki kemampuan evakuasi setelah terjadi gempa bumi"
+                            android:checked="false"/>
+                    </RadioGroup>
 
 
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal4"
+                        android:textSize="16sp" />
+
+                    <RadioGroup
+                        android:id="@+id/st2rg4"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Keluar ruangan dengan tertib dan teratur"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Tidak mendekati bangunan yang rusak"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Jika berada di dalam kendaraan, segera berhenti"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Memberikan pertolongan pertama pada orang yang cedera"
+                            android:checked="false"/>
+                    </RadioGroup>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal56"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal5"
+                        android:textSize="16sp" />
+                    <RadioGroup
+                        android:id="@+id/st2rg5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="(1) dan (2)"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="(1) dan (3)"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="(2) dan (4)"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="(2) dan (5)"
+                            android:checked="false"/>
+                    </RadioGroup>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal6"
+                        android:textSize="16sp" />
+                    <RadioGroup
+                        android:id="@+id/st2rg6"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="(1) dan (2)"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="(1) dan (3)"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="(2) dan (4)"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="(2) dan (5)"
+                            android:checked="false"/>
+                    </RadioGroup>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal7"
+                        android:textSize="16sp" />
+                    <RadioGroup
+                        android:id="@+id/st2rg7"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="TNI/POLRI"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Badan Nasional Penanggulangan Bencana"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Dinas Pertanian dan Peringatan"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Dinas Kesehatan"
+                            android:checked="false"/>
+                    </RadioGroup>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal8"
+                        android:textSize="16sp" />
+                    <RadioGroup
+                        android:id="@+id/st2rg8"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Peringatan bahwa masyarakat harus dalam kondisi siap mengungsi"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Tanda peringatan harus menuju titik evakuasi dan penyebaran informasi bahwa akan terjadi bencana"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Tanda peringatan supaya masyarakat waspada dan tidak keluar rumah"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Pengumuman hasil telah terjadi bencana, masyarakat "
+                            android:checked="false"/>
+                    </RadioGroup>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal9"
+                        android:textSize="16sp" />
+                    <RadioGroup
+                        android:id="@+id/st2rg9"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:src=""
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Tanda peringatan harus menuju titik evakuasi dan penyebaran informasi bahwa akan terjadi bencana"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Tanda peringatan supaya masyarakat waspada dan tidak keluar rumah"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Pengumuman hasil telah terjadi bencana, masyarakat "
+                            android:checked="false"/>
+                    </RadioGroup>
 
 
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST3soal10"
+                        android:textSize="16sp" />
+                    <RadioGroup
+                        android:id="@+id/st2rg10"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:orientation="vertical">
 
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Memudahkan pemindahan sumber daya jika terjadi bencana"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Memudahkan warga sekolah menuju halaman sekolah ketika upacara"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Memberikan informasi kepada warga sekolah jikaterjadi bencana"
+                            android:checked="false"/>
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Memberikan informasi pada tamu bahwa sekolah memiliki kesiapsiagaan bencana"
+                            android:checked="false"/>
+                    </RadioGroup>
 
-
-
+                    <Button
+                        android:id="@+id/st3btnsbmit"
+                        android:layout_width="200dp"
+                        android:layout_height="70dp"
+                        android:background="@drawable/roundedbutton"
+                        android:layout_gravity="center_horizontal"
+                        android:text="Submit"/>
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>

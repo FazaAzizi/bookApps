@@ -659,6 +659,23 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="txtST1soal1">
         1. Struktur bumi terdiri dari lapisan ….
     </string>
@@ -763,5 +780,65 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
 
         5.	Pernyataan di atas yang termasuk ciri-ciri gelombang sekunder adalah ….
     </string>
+
+
+
+
+    <string name="txtST3soal1">
+        1.  Kesiapsiagaan bencana adalah …
+    </string>
+
+    <string name="txtST3soal2">
+        2.	Berikut adalah dampak gempa bumi bagi masyarakat dan lingkungan, kecuali …
+    </string>
+
+    <string name="txtST3soal3">
+        3.	Banyaknya korban jiwa dan kerugian harta benda karena bencana gempa bumi disebabkan oleh hal berikut, kecuali…
+    </string>
+
+    <string name="txtST3soal4">
+        4.	Berikut ini merupakan upaya pengurangan resiko bencana setelah terjadi gempa bumi, kecuali …
+    </string>
+
+    <string name="txtST3soal56">
+        Perhatikan pernyataan berikut untuk nomor 5 dan 6!
+        \n(1)	Berlindung di bawah meja, lindungi kepala dengan benda disekitarmu.
+        \n(2)	Memiliki kotak P3K beserta isinya, senter dan alat pemadam kebakaran.
+        \n(3)	Menuju ke tanah lapang agar terhindar dari reruntuhan bangunan.
+        \n(4)	Menyiapkan nomor telepon penting yang bisa dihubungi jika terjadi bencana.
+        \n(5)	Memastikan tidak ada kebocoran gas dan korsleting listrik.
+    </string>
+
+    <string name="txtST3soal5">
+        \n\n5.	Pernyataan di atas yang merupakan upaya pengurangan resiko bencana sebelum terjadi gempa bumi adalah …
+    </string>
+
+    <string name="txtST3soal6">
+        6.	Pernyataan di atas  yang merupakan upaya pengurangan resiko bencana ketika terjadi gempa bumi adalah …
+    </string>
+
+    <string name="txtST3soal7">
+        7.	Instansi pemerintah berikut dapat dimintai pertolongan ketika terjadi bencana gempa bumi, kecuali …
+    </string>
+
+    <string name="txtST3soal8">
+        8.	Sistem peringatan dini adalah …
+    </string>
+
+    <string name="txtST3soal9">
+        9.	Peringatan yang  melambangkan daerah tersebut rawan bencana gempa bumi adalah dengan …
+    </string>
+
+    <string name="txtST3soal10">
+        10.	Salah satu alasan pentingnya menyusun peta jalur evakuasi adalah …
+    </string>
+
+
+
+
+
+
+
+
 
 </resources>
