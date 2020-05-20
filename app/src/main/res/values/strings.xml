@@ -258,6 +258,28 @@
         \n Sumber: Kusky, 2008
     </string>
 
+    <string name="txtST1aplikasi2">
+        Bacalah hasil penelitian M. Irham Nurwidyanto, dkk berikut dengan cermat, kemudian lakukan kegiatan “Aku Menalar” di bawah ini !
+    </string>
+
+    <string name="txtST1aplikasi3">
+        Telah dilakukan penelitian ini untuk memetakan keberadaan, memperkirakan lokasi dan jenis dari Sesar Opak di daerah pantai Parangtritis dan sekitarnya dengan metode gravity. Penelitian ini dilakukan dengan mengukur nilai medan gravitasi pada daerah yang diperkirakan lokasi Sesar Opak.
+        \n\nKeberadaan Sesar Opak memang telah diperkirakan oleh para geologi dan tertuang dalam Peta Geologi Yogyakarta. Namun, sesar ini menjadi lebih popular setelah kejadian gempa bumi di Yogyakarta pada 27 Mei 2006, karena sebagian ahli kebumian (Sulaiman, C. Dkk, 2008, Natawijaya, 2007) beranggapan bahwa gempa tersebut penyebabnya adalah aktifnya kembali Sesar Opak.
+        \n\nSesar Opak merupakan sesar yang berada di sekitar Sungai Opak. Sesar Opak merupakan jenis sesar normal atau sesar turun dimana blok barat realif bergerak dan blok timur realtif tetap. Lokasi Sesar Opak dari hasil penelitian ini hamper sama dengan lokasi Sesar Opak yang digambarkan pada peta geologi
+    </string>
+
+    <string name="txtST1kutipanaplikasi">
+        Dikutip dari Prosiding Pertemuan Ilmiah XXIV HFI Jateng dan DIY, Semarang 10 April 2010 halaman 77-83 dengan sedikit perubahan
+    </string>
+
+
+
+
+
+
+
+
+
 
     <string name="txtST2">
         Tujuan Pembelajaran	:
@@ -430,6 +452,30 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n\ne. Berdasar grafik di atas, apakah perbedaan antara amplitudo gelombang badan dengan amplitudo gelombang permukaan? Apa dampak yang ditimbulkan dari perbedaan amplitude tersebut?
     </string>
 
+
+    <string name="txtST2pemantapan">
+        Tokoh Sains
+    </string>
+
+    <string name="txtST2pemantapan2Charles">
+        CHARLES FRANCIS RICHTER
+    </string>
+
+    <string name="txtST2pemantapansumbercharles">
+        Sumber : www.quora.com
+    </string>
+
+    <string name="txtST2pemantapan3">
+        Charles Francis Richter dilahirkan disebuah peternakan di Ohio, Amerika Serikat, pada 26 April 1900. Pada usia relatif muda, 16 tahun, ia bersama ibunya pindah ke Los Angeles, California. Richter menjalani pendidikan seismologi di University of Southern California (1916-1917). Setelah itu ia pindah ke Standford University untuk belajar fisika teori dan lulus tahun 1920.
+        \n\nTahun 1928, Richter meraih doctor dari Universitas California Institute of Technology (Caltech). Di Caltech, Richter bersama Beno Guetenberg pada tahun 1935 mengembangkan cara untuk mengukur besaran gempa bumi, yang kemudian dikenal dengan Skala Richter. Skala richter dikembangkan berdasar besarnya amplitudo gempa bumi yang terekam oleh seismograf tipe Wood-Anderson pada jarak tertentu pada jarak tertentu dari sumber gempa. Prinsipnya, besarnya skala magnitude gempa berbanding lurus dengan besar amplitudo dan berbanding terbalik dengan jarak alat ke sumber gempa.
+    </string>
+
+    <string name="txtST2pemantapankutipan">
+        Disadur dari biografiku.com dengan sedikit perubahan
+    </string>
+
+
+
     <string name="txtST2rangkuman">
         1. Seismograf adalah alat yang digunakan untuk mengukur kekuatan gempa secara kuantitatif.
         \n\n2. Data hasil pencatatan gempa bumi oleh seismograf disebut seismogram.
@@ -447,6 +493,9 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n\n14. Amplitudo adalah simpangan terjauh dari titik keseimbangan.
         \n\n15. Gelombang permukaan lebih dirasakan ketika terjadi gempa bumi karena memiliki amplitudo yang lebih besar daripada gelombang badan.
     </string>
+
+
+
 
 
     <string name="txtST3tujuan">

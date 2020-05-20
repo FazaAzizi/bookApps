@@ -71,14 +71,6 @@
                     android:textColor="@android:color/black"
                     android:text="@string/txtST3pemantapan"/>
 
-
-
-                <TextView
-                    android:justificationMode="inter_word"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="8dp"
-                    android:textColor="@android:color/black"/>
             </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -87,7 +79,6 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:paddingTop="30dp"
                     android:orientation="vertical">
 
                     <androidx.cardview.widget.CardView
@@ -113,7 +104,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_margin="8dp"
                                     android:gravity="center_horizontal"
-                                    android:text="Aku Menocba"
+                                    android:text="Aku Mencoba"
                                     android:textColor="@android:color/black"
                                     android:textSize="24sp" />
 
