@@ -273,14 +273,6 @@
     </string>
 
 
-
-
-
-
-
-
-
-
     <string name="txtST2">
         Tujuan Pembelajaran	:
         \n\n 1. Menjelaskan cara kerja alat ukur kekuatan gempa bumi (seismograf) dengan benar
@@ -478,7 +470,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
 
-
     <string name="txtST2rangkuman">
         1. Seismograf adalah alat yang digunakan untuk mengukur kekuatan gempa secara kuantitatif.
         \n\n2. Data hasil pencatatan gempa bumi oleh seismograf disebut seismogram.
@@ -496,9 +487,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n\n14. Amplitudo adalah simpangan terjauh dari titik keseimbangan.
         \n\n15. Gelombang permukaan lebih dirasakan ketika terjadi gempa bumi karena memiliki amplitudo yang lebih besar daripada gelombang badan.
     </string>
-
-
-
 
 
     <string name="txtST3tujuan">
@@ -689,7 +677,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     <string name="txtST3pemantapan2revisi3kutipan">
         Sumber : magma.vsi.esdm.go.id
     </string>
-
 
 
     <string name="txtST3pemantapan3">
@@ -889,7 +876,7 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         10.	Salah satu alasan pentingnya menyusun peta jalur evakuasi adalah …
     </string>
 
-<string name="txtdapus">
+    <string name="txtdapus">
     Agung Ismiyanto. 2016. Air Mata Korban Gempa Yogyakarta 2006, Menetas Tak Henti-Henti.
     \nDiakses dari jogjatribunnews.com
 

@@ -4,61 +4,96 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/bkg"
+    android:background="@color/kp2"
     android:orientation="vertical"
     tools:context=".KiKdActivity">
 
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/bl"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="-40dp"
+        app:cardCornerRadius="30dp"
+        app:cardBackgroundColor="@color/kp1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KI/KD"
+            android:layout_gravity="center"
+            android:textColor="@color/bl"
+            android:textSize="24sp"
+            android:gravity="center_horizontal"/>
+    </androidx.cardview.widget.CardView>
+
+
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:layout_marginTop="-30dp">
+
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:paddingTop="30dp">
 
-            <TextView
+            <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
-                android:gravity="center_horizontal"
-                android:textSize="32sp"
-                android:layout_marginTop="32dp"
-                android:text="Pendahuluan" />
+                android:layout_margin="8dp"
+                app:cardCornerRadius="40dp">
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
-                android:gravity="center_horizontal"
-                android:textSize="24sp"
-                android:layout_marginTop="16dp"
-                android:text="@string/txtkikdJudulKI" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
-                android:layout_margin="16dp"
-                android:justificationMode="inter_word"
-                android:text="@string/txtkikdisiKI" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_margin="16dp">
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
-                android:gravity="center_horizontal"
-                android:textSize="24sp"
-                android:layout_marginTop="16dp"
-                android:text="@string/txtkikdJudulKD" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
-                android:layout_margin="16dp"
-                android:justificationMode="inter_word"
-                android:text="@string/txtkikdisiKD" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"
+                        android:gravity="center_horizontal"
+                        android:textSize="24sp"
+                        android:layout_marginTop="16dp"
+                        android:text="@string/txtkikdJudulKI" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"
+                        android:layout_margin="16dp"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtkikdisiKI" />
 
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"
+                        android:gravity="center_horizontal"
+                        android:textSize="24sp"
+                        android:layout_marginTop="16dp"
+                        android:text="@string/txtkikdJudulKD" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"
+                        android:layout_margin="16dp"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtkikdisiKD" />
+
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
         </LinearLayout>
-
     </ScrollView>
 
 

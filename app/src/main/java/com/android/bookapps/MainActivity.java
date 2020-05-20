@@ -64,6 +64,9 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.video:
                         videoo();
                         break;
+                    case R.id.pekon:
+                        pekonn();
+                        break;
                     case R.id.dapus:
                         dapuss();
                         break;
@@ -93,6 +96,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void kikdd(){
         Intent intent = new Intent(MainActivity.this, KiKdActivity.class);
+        startActivity(intent);
+    }
+
+    public void pekonn(){
+        Intent intent = new Intent(MainActivity.this, PekonActivity.class);
         startActivity(intent);
     }
 
