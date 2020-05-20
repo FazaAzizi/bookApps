@@ -3,6 +3,21 @@
     <string name="Open">open</string>
     <string name="Close">close</string>
 
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Disusun Oleh</string>
+    <string name="slide_1_desc">Tutik Yuliatun, S.Pd</string>
+
+    <string name="slide_2_desc">Mempelajari gempa bumi dengan keilmuan</string>
+
+
+    <string name="slide_3_desc">Kenali aktivitas gempa bumi dengan aplikasi magma</string>
+
+
+    <string name="slide_4_desc">Metode SETS memudahkan peserta didik untuk memahami materi tentang kegempaan</string>
+
 
     <string name="pengantar">Puji syukur senantiasa penyusun panjatkan atas kehadirat Allah SWT yang telah melimpahkan rahmad, taufiq, dan hidayah-Nya sehingga penyusun dapat menyelesaikan penyusunan E-modul IPA berbasis Science, Environment, Technology and Society (SETS) dengan tema “Pemahaman Konsep dan Kesiapsiagaan Bencana Gempa Bumi”.
         Tujuan pembuatan e-modul ini adalah untuk membantu Guru dalam menyampaikan pembelajaran pada materi Struktur Bumi dan Dinamikanya. Selanjutnya, emodul ini juga diharapkan dapat meningkatkan pemahaman konsep dan kesiapsiagaan bencana gempa bumi peserta didik.
@@ -232,11 +247,6 @@
     </string>
 
 
-
-
-
-
-
     <string name="txtST1aplikasi">
         Kamu tentu telah memahami konsep gempa bumi dan penyebabnya. Berdasar isu pada bagian pendahuluan (07-05-2006: Gempa Mengepung Yogyakarta) dan uraian materi mengenai pergerakan lempeng bumi, analisislah penyebab gempa bumi 27 Mei 2016!
         \n\nHubungkan hasil analismu dengan peta pergerakan lempeng dunia berikut (pusatkan perhatianmu pada daerah yang dilingkari merah)!
@@ -437,29 +447,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n\n14. Amplitudo adalah simpangan terjauh dari titik keseimbangan.
         \n\n15. Gelombang permukaan lebih dirasakan ketika terjadi gempa bumi karena memiliki amplitudo yang lebih besar daripada gelombang badan.
     </string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <string name="txtST3tujuan">
@@ -685,7 +672,6 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \n(3)	Tumbukan antar lempeng bumi
         \n(4)	Akibat terjadinya banjir bandang
         \n\nPernyataan di atas yang merupakan penyebab terjadinya gempa bumi adalah….
-
     </string>
     <string name="txtST1soal4">
         4.	Gempa bumi adalah ….
@@ -730,6 +716,52 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         15. Akibat negative dari letak geografis Indonesia yang berada di pertemuan tiga lempeng bumi adalah ….
     </string>
 
+    <string name="txtkikdJudulKI">
+        Kompetensi Inti
+    </string>
 
+    <string name="txtkikdisiKI">
+        3.	Memahami pengetahuan (faktual, konseptual, dan prosedural) berdasarkan rasa ingin tahunya tentang ilmu pengetahuan, teknologi, seni, budaya terkait fenomena dan kejadian tampak mata.
+        \n4.	Mencoba, mengolah, dan menyaji dalam ranah konkret (menggunakan, mengurai, merangkai, memodifikasi, dan membuat) dan ranah abstrak (menulis, membaca, menghitung, menggambar, dan mengarang) sesuai dengan yang dipelajari di sekolah dan sumber lain yang sama dalam sudut pandang/teori.
+
+    </string>
+
+    <string name="txtkikdJudulKD">
+    Kompetensi Dasar
+    </string>
+
+    <string name="txtkikdisiKD">
+        3.10 Memahami lapisan bumi, gunung api, gempa bumi dan tindakan pengurangan resiko sebelum, pada saat dan pasca bencana sesuai ancaman bencana di daerahnya.
+        \n4.10 Mengkomunikasikan upaya pengurangan resiko dan dampak bencana alam serta tindakan penyelamatan diri pada saat terjadi bencana sesuai dengan jenis ancaman bencana di daerahnya.
+    </string>
+
+    <string name="txtST2soal1">
+        1. Pasangan pernyataan yang benar mengenai hiposenter dan episenter ditunjukkan oleh ….
+    </string>
+
+    <string name="txtST2soal2">
+        2.	Berikut yang merupakan alat ukur kekuatan gempa secara kuantitatif adalah ….
+    </string>
+    <string name="txtST2soal3">
+        3. Berdasar seismogram di atas, kita mengetahui bahwa getaran gelombang permukaan lebih dirasakan saat terjadi gempa bumi karena ….
+    </string>
+
+    <string name="txtST2soal45">
+    Perhatikan pernyataan berikut untuk nomor 2 dan 3!
+    \n(1)	Memiliki waktu rambat paling cepat diantara gelombang seismik
+    \n(2)	Tidak dapat merambat di medium cair
+    \n(3)	Dapat merambat di semua medium
+    \n(4)	Merupakan gelombang transversal
+    </string>
+
+
+    <string name="txtST2soal4">
+        4.	Pernyataan di atas yang termasuk ciri-ciri gelombang primer adalah ….
+
+    </string>
+    <string name="txtST2soal5">
+
+        5.	Pernyataan di atas yang termasuk ciri-ciri gelombang sekunder adalah ….
+    </string>
 
 </resources>

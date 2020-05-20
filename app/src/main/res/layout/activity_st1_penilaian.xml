@@ -91,6 +91,13 @@
                             android:checked="false"/>
                     </RadioGroup>
 
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:scaleType="fitCenter"
+                        android:layout_marginBottom="16dp"
+                        android:src="@drawable/st1gambarsoal1" />
+
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -386,6 +393,13 @@
                             android:text="(2) dan (4)" />
                     </RadioGroup>
 
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:scaleType="fitCenter"
+                        android:layout_marginBottom="16dp"
+                        android:src="@drawable/st1gambarsoal2" />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -497,6 +511,13 @@
                             android:text="Tektonik" />
                     </RadioGroup>
 
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:scaleType="fitCenter"
+                        android:layout_marginBottom="16dp"
+                        android:src="@drawable/st1gambarsoal3" />
+
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -533,6 +554,13 @@
                             android:checked="false"
                             android:text="Tektonik" />
                     </RadioGroup>
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:scaleType="fitCenter"
+                        android:layout_marginBottom="16dp"
+                        android:src="@drawable/st1gambarsoal4" />
 
                     <TextView
                         android:layout_width="match_parent"
