@@ -65,6 +65,20 @@
                     android:textColor="@android:color/black"
                     android:text="@string/txtST2aplikasi"/>
 
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="194dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/st2gambarkuningaplikasi"></ImageView>
+
+                <TextView
+                    android:justificationMode="inter_word"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    android:textColor="@android:color/black"
+                    android:text="@string/txtST2aplikasi2"/>
+
             </LinearLayout>
 
             </androidx.cardview.widget.CardView>

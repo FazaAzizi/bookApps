@@ -442,7 +442,10 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
 
         \n\n1. Menurutmu, apakah para ilmuwan saat ini dapat menentukan arah sumber gempa bumi? Jika “ya”, bagaimana cara ilmuan menentukan arah sumber gempa bumi?
         \n\n2. Berdasar hasil pengamatan, diperoleh grafik pada seismograf sebagai berikut,
-        \n\na. Dapatkah kamu membedakan gelombang P, gelombang S, dan gelombang permukaan pada grafik di atas?
+    </string>
+
+    <string name="txtST2aplikasi2">
+        a. Dapatkah kamu membedakan gelombang P, gelombang S, dan gelombang permukaan pada grafik di atas?
         \n\nb. Berdasar grafik di atas, isilah pernyataan berikut dengan benar!
         \n  1) Gelombang P datang pada interval menit ke … sampai menit ke …
         \n  2) Gelombang S datang pada interval menit ke … sampai menit ke …
@@ -657,17 +660,37 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
     <string name="txtST3pemantapan2">
-        Info Sains
-        \n\nAplikasi Info BMKG untuk smartphone
-        \nMy Shake, Alat Pendeteksi Dini Gempa Bumi Untuk Smartphone
+        Aplikasi Magma Indonesia
+    </string>
 
-        \n\n Aplikasi “My Shake”diciptakan berdasarkan pengalaman gempa bumi dan tsunami di Jepang. Dengan memanfaatkan akselerometer yang ada dalam perangkat ponsel pintar, aplikasi ini mengumpulkan data dalam jumlah besar.
+    <string name="txtST3magma">
+        MAGMA
+    </string>
+
+    <string name="txtST3pemantapan2revisi1">
+        Multiplatform Application for Geohazard Mitigation and Assessment in Indonesia
     </string>
 
     <string name="txtST3gambar47">
-        Gambar 47. Aplikasi Info BMKG
-        \n Sumber: androidpit.es
+        Gambar 37. Logo Aplikasi Magma Indonesia
+        \n Sumber: play.google.com
     </string>
+
+    <string name="txtST3pemantapan2revisi2">
+        MAGMA Indonesia (Multiplatform Application for Geohazard Mitigation and Assessment in Indonesia) adalah aplikasi multiplatform (web and mobile) dalam jaringan berisikan informasi dan rekomendasi kebencanaan geologi terintegrasi (gunungapi, gempabumi, tsunami, dan gerakan tanah) yang disajikan kepada masyarakat secara kuasi-realtime dan interaktif. Sistem ini dibangun dan dikembangkan secara mandiri oleh PNS Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) sejak tahun 2015 dengan menggunakan teknologi terkini berbasis open-source. MAGMA Indonesia meliputi aplikasi yang digunakan secara internal/pegawai (analisis data dan pelaporan) maupun eksternal/publik (informasi dan rekomendasi). Prinsip utama MAGMA Indonesia adalah mengubah data menjadi informasi dan rekomendasi yang mudah dipahami oleh masyarakat umum. MAGMA Indonesia adalah sistem yang terus belajar dan berevolusi, fitur-fitur baru akan lahir disesuaikan dengan kebutuhan jaman. Diharapkan bahwa seluruh informasi kebencanaan geologi nantinya dapat diakses oleh masyarakat dengan mudah melalui satu jendela (single-window). Hal ini merupakan manifestasi hadirnya negara secara aktif di tengah-tengah masyarakat dalam upaya mitigasi bencana geologi di Indonesia.
+        Pelayanan publik yang disajikan MAGMA Indonesia PVMBG saat ini terdiri dari:
+        \n\nGunungapi :: (a) Informasi data pengamatan visual dan instrumental, tingkat aktivitas (status), dan rekomendasi gunungapi (Volcanic Activity Report/VAR), (b) Peta Kawasan Rawan Bencana (KRB) Gunungapi, maupun (c) Informasi abu vulkanik gunungapi untuk keselamatan penerbangan (Volcano Observatory Notice for Aviation/VONA).
+        \n\nGempabumi dan Tsunami :: (a) Informasi kejadian dan tanggapan gempabumi beserta analisis dan rekomendasinya, dan (b) Peta Kawasan Rawan Bencana (KRB) Gempabumi.
+        \n\nGerakan Tanah :: (a) Informasi kejadian dan tanggapan gerakan tanah beserta analisis dan rekomendasinya, dan (b) Peta Potensi maupun Zona Kerentanan Gerakan Tanah.
+        \n\nPress Release :: Informasi periodik mengenai kejadian spesifik maupun kegiatan koordinasi, sosialisasi, dan mitigasi bencana geologi lainnya.
+        \n\nLapor Bencana :: Media pelaporan kejadian bencana geologi bagi masyarakat, pemda, maupun lainnya di sekitar wilayah bencana (Society Reporting System/SRS)
+    </string>
+
+    <string name="txtST3pemantapan2revisi3kutipan">
+        Sumber : magma.vsi.esdm.go.id
+    </string>
+
+
 
     <string name="txtST3pemantapan3">
         BERKELEY, CALIFORNIA- Ketika gempa bumi mengguncang, setiap detik sangat berarti. Demikian keadaannya lima tahun yang lalu ketika gempa berskala 9 SR memicu gelombang tsunami dahsyat yang menghancurkan Jepang.

@@ -120,7 +120,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="490dp"
                                 android:scaleType="fitCenter"
-                                android:src="@drawable/st3gambartabelkuning6" />
+                                android:src="@drawable/st3gambarkuningpemantapan" />
 
                         </LinearLayout>
                     </androidx.cardview.widget.CardView>
@@ -161,15 +161,45 @@
                                 android:layout_height="wrap_content"
                                 android:layout_margin="8dp"
                                 android:textColor="@android:color/black"
+                                android:textStyle="bold"
+                                android:layout_gravity="center_horizontal"
                                 android:text="@string/txtST3pemantapan2"/>
 
+
                             <TextView
+                                android:layout_width="345dp"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal"
                                 android:justificationMode="inter_word"
+                                android:paddingTop="15dp"
+                                android:text="@string/txtST3magma"
+                                android:textSize="16sp"
+                                android:textStyle="bold"
+                                android:textColor="@android:color/black" />
+
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal"
+                                android:justificationMode="inter_word"
+                                android:textSize="12sp"
+                                android:text="@string/txtST3pemantapan2revisi1"
+                                android:textColor="@android:color/black" />
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="205dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/st3pemantapanmagma" />
+
+                            <TextView
+                                android:gravity="center_horizontal"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_margin="8dp"
                                 android:textColor="@android:color/black"
-                                android:text="@string/txtST3pemantapan3"/>
+                                android:text="@string/txtST3gambar47"/>
 
                             <TextView
                                 android:justificationMode="inter_word"
@@ -177,7 +207,21 @@
                                 android:layout_height="wrap_content"
                                 android:layout_margin="8dp"
                                 android:textColor="@android:color/black"
-                                android:text="@string/txtST3kutipan3"/>
+                                android:text="@string/txtST3pemantapan2revisi2"/>
+
+                            <TextView
+                                android:justificationMode="inter_word"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="8dp"
+                                android:textColor="@android:color/black"
+                                android:gravity="left"
+                                android:textSize="10sp"
+                                android:text="@string/txtST3pemantapan2revisi3kutipan"/>
+
+
+
+
 
                         </LinearLayout>
                     </androidx.cardview.widget.CardView>
