@@ -5,23 +5,39 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/st1a"
     android:gravity="center"
     tools:context=".st1.St1ResultActivity">
 
+    
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textColor="@color/bl"
+        android:layout_margin="32dp"
         android:text="Nilai anda adalah"/>
 
-    <TextView
-        android:id="@+id/st1nilai"
-        android:textSize="100sp"
-        android:gravity="center"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="0"/>
+    <androidx.cardview.widget.CardView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:cardBackgroundColor="@color/st1b"
+        app:cardCornerRadius="200dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/st1nilai"
+                android:textSize="100sp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="0"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
 
 
 

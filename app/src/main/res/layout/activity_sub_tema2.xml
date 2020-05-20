@@ -5,7 +5,7 @@
     xmlns:card_view="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/or"
+    android:background="@color/st2a"
     android:orientation="vertical"
 
     tools:context=".SubTema2Activity">
@@ -90,7 +90,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st2pendahuluanmtd"
-                        app:cardBackgroundColor="#FFBF00"
+                        app:cardBackgroundColor="@color/st2b"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
@@ -123,7 +123,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st2pengembanganmtd"
-                        app:cardBackgroundColor="#FFBF00"
+                        app:cardBackgroundColor="@color/st2b"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
@@ -162,7 +162,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st2aplikasimtd"
-                        app:cardBackgroundColor="#FFBF00"
+                        app:cardBackgroundColor="@color/st2b"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
@@ -196,7 +196,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st2pemantapanmtd"
-                        app:cardBackgroundColor="#FFBF00"
+                        app:cardBackgroundColor="@color/st2b"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
@@ -236,7 +236,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st2rangkumanmtd"
-                        app:cardBackgroundColor="#FFBF00"
+                        app:cardBackgroundColor="@color/st2b"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">
@@ -267,7 +267,7 @@
                         android:layout_marginBottom="8dp"
                         android:clickable="true"
                         android:onClick="st2penilaianmtd"
-                        app:cardBackgroundColor="#FFBF00"
+                        app:cardBackgroundColor="@color/st2b"
                         app:cardCornerRadius="16dp"
                         card_view:cardElevation="6dp"
                         card_view:cardPreventCornerOverlap="false">

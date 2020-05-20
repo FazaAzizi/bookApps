@@ -6,7 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:card_view="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:background="#FFBF00"
+    android:background="@color/st2b"
     tools:context=".st2.St2PendahuluanActivity">
 
     <TextView
@@ -20,7 +20,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="-40dp"
         app:cardCornerRadius="30dp"
-        app:cardBackgroundColor="@color/or">
+        app:cardBackgroundColor="@color/st2a">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

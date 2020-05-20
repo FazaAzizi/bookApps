@@ -19,7 +19,7 @@ public class St1ResultActivity extends AppCompatActivity {
         st1nilaii = findViewById(R.id.st1nilai);
         float total = getIntent().getExtras().getFloat("nilai");
 
-        String n = String.format("%.02f", total);
+        String n = String.format("%.01f", total);
         st1nilaii.setText(n);
     }
 }

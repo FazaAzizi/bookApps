@@ -10,6 +10,13 @@
     <color name="wh">#FFFFFF</color>
     <color name="bl">#000000</color>
 
+    <color name="st1a">#3BBD7B</color>
+    <color name="st1b">#5ED196</color>
+    <color name="st2a">#9C4C86</color>
+    <color name="st2b">#BA78A8</color>
+    <color name="st3a">#5175E2</color>
+    <color name="st3b">#9BB3F9</color>
+
     <color name="dot_dark">#746E6E</color>
     <!-- dots active colors -->
     <color name="dot_light">#FFFFFF</color>

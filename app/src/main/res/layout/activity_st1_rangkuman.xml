@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFBF00"
+    android:background="@color/st1b"
     android:orientation="vertical"
     tools:context=".st1.St1RangkumanActivity">
 
@@ -20,7 +20,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="-40dp"
         app:cardCornerRadius="30dp"
-        app:cardBackgroundColor="@color/or">
+        app:cardBackgroundColor="@color/st1a">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
