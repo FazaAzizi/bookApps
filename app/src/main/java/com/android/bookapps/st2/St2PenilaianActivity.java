@@ -36,26 +36,26 @@ public class St2PenilaianActivity extends AppCompatActivity {
         st2sbmt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                int st1point1 = st2rgp1.getCheckedRadioButtonId();
-                st2vl1 = (RadioButton) findViewById(st1point1);
+                int st2point1 = st2rgp1.getCheckedRadioButtonId();
+                st2vl1 = (RadioButton) findViewById(st2point1);
 
-                int st1point2 = st2rgp2.getCheckedRadioButtonId();
-                st2vl2 = (RadioButton) findViewById(st1point2);
+                int st2point2 = st2rgp2.getCheckedRadioButtonId();
+                st2vl2 = (RadioButton) findViewById(st2point2);
 
-                int st1point3 = st2rgp3.getCheckedRadioButtonId();
-                st2vl3 = (RadioButton) findViewById(st1point3);
+                int st2point3 = st2rgp3.getCheckedRadioButtonId();
+                st2vl3 = (RadioButton) findViewById(st2point3);
 
-                int st1point4 = st2rgp4.getCheckedRadioButtonId();
-                st2vl4 = (RadioButton) findViewById(st1point4);
+                int st2point4 = st2rgp4.getCheckedRadioButtonId();
+                st2vl4 = (RadioButton) findViewById(st2point4);
 
-                int st1point5 = st2rgp5.getCheckedRadioButtonId();
-                st2vl5 = (RadioButton) findViewById(st1point5);
+                int st2point5 = st2rgp5.getCheckedRadioButtonId();
+                st2vl5 = (RadioButton) findViewById(st2point5);
 
 
                 int total = 0;
 
 
-                if((st1point1 <= 0)||(st1point2 <= 0)||(st1point3 <= 0)||(st1point4 <= 0)||(st1point5 <= 0)){
+                if((st2point1 <= 0)||(st2point2 <= 0)||(st2point3 <= 0)||(st2point4 <= 0)||(st2point5 <= 0)){
                 Toast.makeText(St2PenilaianActivity.this,"Harus diisi semua",Toast.LENGTH_SHORT).show();
                 }
                 else {
