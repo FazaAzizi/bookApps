@@ -91,12 +91,7 @@
                             android:checked="false"/>
                     </RadioGroup>
 
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="200dp"
-                        android:scaleType="fitCenter"
-                        android:layout_marginBottom="16dp"
-                        android:src="@drawable/st1gambarsoal1" />
+
 
                     <TextView
                         android:layout_width="match_parent"
@@ -105,6 +100,13 @@
                         android:justificationMode="inter_word"
                         android:text="@string/txtST1soal2"
                         android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:scaleType="fitCenter"
+                        android:layout_marginBottom="16dp"
+                        android:src="@drawable/st1gambarsoal1" />
 
                     <RadioGroup
                         android:id="@+id/st1rg2"
@@ -394,19 +396,31 @@
                     </RadioGroup>
 
 
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/bl"
+                        android:justificationMode="inter_word"
+                        android:text="@string/txtST1soal101112"
+                        android:textSize="16sp" />
+
+
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="200dp"
                         android:scaleType="fitCenter"
                         android:layout_marginBottom="16dp"
                         android:src="@drawable/st1gambarsoal2" />
-                    <TextView
+
+                   <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/bl"
                         android:justificationMode="inter_word"
                         android:text="@string/txtST1soal10"
                         android:textSize="16sp" />
+
+
 
                     <RadioGroup
                         android:id="@+id/st1rg10"
@@ -511,12 +525,7 @@
                             android:text="Tektonik" />
                     </RadioGroup>
 
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="200dp"
-                        android:scaleType="fitCenter"
-                        android:layout_marginBottom="16dp"
-                        android:src="@drawable/st1gambarsoal3" />
+
 
                     <TextView
                         android:layout_width="match_parent"
@@ -525,6 +534,13 @@
                         android:justificationMode="inter_word"
                         android:text="@string/txtST1soal13"
                         android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:scaleType="fitCenter"
+                        android:layout_marginBottom="16dp"
+                        android:src="@drawable/st1gambarsoal3" />
 
                     <RadioGroup
                         android:id="@+id/st1rg13"
@@ -555,12 +571,7 @@
                             android:text="Tektonik" />
                     </RadioGroup>
 
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="200dp"
-                        android:scaleType="fitCenter"
-                        android:layout_marginBottom="16dp"
-                        android:src="@drawable/st1gambarsoal4" />
+
 
                     <TextView
                         android:layout_width="match_parent"
@@ -569,6 +580,13 @@
                         android:justificationMode="inter_word"
                         android:text="@string/txtST1soal14"
                         android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:scaleType="fitCenter"
+                        android:layout_marginBottom="16dp"
+                        android:src="@drawable/st1gambarsoal4" />
 
                     <RadioGroup
                         android:id="@+id/st1rg14"
