@@ -16,6 +16,31 @@ public class St1PendahuluanAkutahuActivity extends AppCompatActivity {
         setContentView(R.layout.activity_st1_pendahuluan_akutahu);
     }
 
+    @Override
+    protected void onStart(){
+        super.onStart();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
+
+    @Override
+    protected void onPause(){
+        super.onPause();
+    }
+
+    @Override
+    protected void onStop(){
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy(){
+        super.onDestroy();
+    }
+
     public void backah2(View view){
         Intent intent = new Intent(St1PendahuluanAkutahuActivity.this, St1PendahuluanActivity.class);
         startActivity(intent);

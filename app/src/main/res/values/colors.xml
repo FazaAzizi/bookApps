@@ -25,7 +25,7 @@
 
     <color name="dot_dark">#000000</color>
     <!-- dots active colors -->
-    <color name="dot_light">#746E6E</color>
+    <color name="dot_light">#E6E6E6</color>
 
     <array name="array_dot_active">
         <item>@color/dot_light</item>

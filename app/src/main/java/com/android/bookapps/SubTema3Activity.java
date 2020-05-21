@@ -21,6 +21,32 @@ public class SubTema3Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sub_tema3);
     }
+
+    @Override
+    protected void onStart(){
+        super.onStart();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
+
+    @Override
+    protected void onPause(){
+        super.onPause();
+    }
+
+    @Override
+    protected void onStop(){
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy(){
+        super.onDestroy();
+    }
+
     public void st3pendahuluanmtd(View view){
         Intent intent = new Intent(SubTema3Activity.this, st3PendahuluanActivity.class);
         startActivity(intent);

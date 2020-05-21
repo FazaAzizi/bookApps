@@ -3,7 +3,9 @@ package com.android.bookapps;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.nfc.Tag;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 
 import com.android.bookapps.st1.St1AplikasiActivity;
@@ -20,6 +22,33 @@ public class SubTema1Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sub_tema1);
     }
+
+    @Override
+    protected void onStart(){
+        super.onStart();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
+
+    @Override
+    protected void onPause(){
+        super.onPause();
+    }
+
+    @Override
+    protected void onStop(){
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy(){
+        super.onDestroy();
+    }
+
+
 
     public void st1pendahuluanmtd(View view){
         Intent intent = new Intent(SubTema1Activity.this, St1PendahuluanActivity.class);
@@ -45,4 +74,9 @@ public class SubTema1Activity extends AppCompatActivity {
         Intent intent = new Intent(SubTema1Activity.this, St1PenilaianActivity.class);
         startActivity(intent);
     }
+
+
+
+
+
 }

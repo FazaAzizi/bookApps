@@ -22,6 +22,31 @@ public class SubTema2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_sub_tema2);
     }
 
+    @Override
+    protected void onStart(){
+        super.onStart();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
+
+    @Override
+    protected void onPause(){
+        super.onPause();
+    }
+
+    @Override
+    protected void onStop(){
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy(){
+        super.onDestroy();
+    }
+
     public void st2pendahuluanmtd(View view){
         Intent intent = new Intent(SubTema2Activity.this, St2PendahuluanActivity.class);
         startActivity(intent);
