@@ -52,9 +52,6 @@ public class MainActivity extends AppCompatActivity {
                 Activity selectedActivity = null;
                 switch(id)
                 {
-                    case R.id.beranda:
-                        berandaa();
-                        break;
                     case R.id.kikd:
                         kikdd();
                         break;

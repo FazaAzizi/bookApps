@@ -954,9 +954,62 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
     </string>
 
     <string name="w1">
-        Untuk
-        \nKelas 7
+        Untuk kelas 7
         \nSMP/MTS
+    </string>
+
+
+    <string name="judulvideo1">
+        APA ITU GEMPA BUMI????
+    </string>
+
+    <string name="txtvideo1">
+        Tangguh akan mengajak teman teman untuk lebih mengenali gempa bumi.
+
+        \n\nMengapa Indonesia sering terjadi gempa bumi??, apa yang perlu dilakukan sebelum, saat dan sesudah terjadi gempa bumi.
+
+        \n\nBantu tangguh untuk membantu tangguh mengurangi resiko akibat bencana gempa bumi.
+    </string>
+
+    <string name="judulvideo2">
+        Tanggap,Tangkas, Tangguh!!!! Menghadapi Bencana _Gempa Bumi
+    </string>
+
+    <string name="txtvideo2">
+        Gempa bumi yang melanda Daerah Istimewa Yogyakarta membuat ribuan bangunan rata dengan tanah dan menewaskan ribuan korban jiwa.
+
+        \n\nGempa bumi tidak dapat dicegah atau ditangguhkan, tetapi teman-teman bisa melakukan beberapa hal untuk mempersiapkan diri dalam menghadapi gempa.
+        \nSimak video berikut untuk memahami simulasi ketika terjadi gempa bumi.
+    </string>
+
+    <string name="judulvideo3">
+        Video Animasi Mitigasi Gempabumi BMKG
+    </string>
+
+    <string name="txtvideo3">
+        Jika kita berada di daerah yang rawan gempabumi, apa yang harus dilakukan sebelum, saat dan setelah gempabumi? simak penjelasannya pada video.
+    </string>
+
+    <string name="judulvideo4">
+        TANGGAP BENCANA BERSAMA SI SIGAP!!
+    </string>
+
+    <string name="txtvideo4">
+        Memberikan informasi penanggulangan bencana alam kepada teman2 dengan animasi 2 dimensi yang di desain sesuai target audience usia remaja dengan memanfaatkan media sosial untuk penyebarannya. namun tidak menutup kemungkinan informasi ini dapat berguna bagi masyarakat umum dengan lingkup geografis yang menyerupai dengan yang ada di video.
+
+        \n\nDengan harapan media pembelajaran dapat membantu mensosialisasikan kepada masyarakat untuk meminimalisir resiko akibat bencana alam.
+
+        \n\nJangan lupa subscribe, like dan share.
+        \nLuangkan waktumu untuk berbagi, semua dimulai dari kesadaran anda dan saya. terimakasih "si Sigap"
+    </string>
+
+    <string name="judulvideo5">
+        Video animasi BNPB sosialisasi bencana gempa bumi
+    </string>
+
+    <string name="txtvideo5">
+        BNPB berusaha untuk selalu mensosialisasikan mitigasi untuk mengurangi resiko akibat bencana, termasuk gempa bumi
+        \nayo simak video berikut dan bantu BNPB untuk mengantisipasi apabila gempa bumi terjadi
     </string>
 
 </resources>

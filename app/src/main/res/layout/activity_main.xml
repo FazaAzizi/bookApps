@@ -80,7 +80,7 @@
                                 android:layout_marginRight="16dp"
                                 android:clickable="true"
                                 android:onClick="pengantar"
-                                app:cardBackgroundColor="@color/or"
+                                app:cardBackgroundColor="@color/kp1"
                                 app:cardCornerRadius="20dp">
 
 

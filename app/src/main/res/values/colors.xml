@@ -19,11 +19,13 @@
     <color name="kp1">#E2473F</color>
     <color name="kp2">#FC6F67</color>
 
+    <color name="ls1">#4D4D4D</color>
+    <color name="ls3">#007fff</color>
+    <color name="ls4">#FFFFFF</color>
 
-
-    <color name="dot_dark">#746E6E</color>
+    <color name="dot_dark">#000000</color>
     <!-- dots active colors -->
-    <color name="dot_light">#FFFFFF</color>
+    <color name="dot_light">#746E6E</color>
 
     <array name="array_dot_active">
         <item>@color/dot_light</item>
