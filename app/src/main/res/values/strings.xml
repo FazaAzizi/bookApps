@@ -1012,4 +1012,23 @@ Sedangkan pengukuran kekuatan gempa bumi secara kualitatif dinyatakan dengan int
         \nayo simak video berikut dan bantu BNPB untuk mengantisipasi apabila gempa bumi terjadi
     </string>
 
+
+    <string name="judulsets">
+        SCIENCE, ENVIRONMENT, TECHNOLOGY, AND SOCIETY (SETS)
+    </string>
+    <string name="txtsets">
+    Teman Sains,
+    \nE-modul IPA berbasis SETS dalah model pembelajaran yang mempunyai ciri khas mempelajari sains berdasar suatu fenomena, isu/masalah yang sedang berkembang di masyarakat. Berikut ini kami uraikan langkah-langkah pembelajaran berbasis SETS.
+
+    \n\n1.Pendahuluan
+    \nTahap  Pendahuluan dicirikan dengan adanya isu/masalah sosial yang diangkat dalam pembelajaran sains. Peserta didik akan memulai pembelajaran dengan mengidentifikasi isu/masalah sosial yang berkaitan dengan materi pembelajaran sains.
+    \n2.Pembentukan /Pengembangan Konsep
+    \nTahap Pembentukan/Pengembangan konsep mengajak peserta didik untuk mempelajari suatu konsep sains. Pada akhir tahap pembentukan/ pengembangan konsep, peserta didik diharapkan telah memiliki pemahaman suatu konsep sains yang akan digunakan untuk menyelesaikan isu-isu/masalah sosial yang dikemukakan di awal pembelajaran.
+    \n3.Aplikasi Konsep
+    \nBerbekal konsep yang telah dipahami pada langkah pembelajaran nomor 2, peserta didik diharapkan dapat mengaplikasikan konsep untuk menyelesaikan masalah ataupun isu sains dalam kehidupan sehari-hari.
+    \n4.Pemantapan Konsep
+    \nSetelah menganalisis isu/masalah sosial, peserta didik akan melakukan diskusi dengan guru dan peserta didik lain untuk memantapkan konsep yang harus peserta didik pahami dengan benar.
+    \n5.Penilaian
+    \nKegiatan penilaian dilakukan untuk mengetahui ketercapaian tujuan pembelajaran. Peserta didik boleh melanjutkan pembelajaran ke bab selanjutnya jika nilai peserta didik telah memenuhi kriteria kelulusan dalam e-modul ini.
+    </string>
 </resources>
