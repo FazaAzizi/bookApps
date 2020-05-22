@@ -54,13 +54,12 @@
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
                     android:layout_margin="16dp">
-                    <TextView
+                    <ImageView
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:textColor="@android:color/black"
-                        android:layout_margin="16dp"
-                        android:justificationMode="inter_word"
-                        android:text="@string/txtdapus" />
+                        android:layout_height="900dp"
+                        android:src="@drawable/dapusfix"
+                        android:scaleType="fitCenter"/>
+
 
 
 
