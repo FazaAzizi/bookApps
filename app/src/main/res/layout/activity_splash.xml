@@ -12,6 +12,6 @@
         android:id="@+id/logo"
         android:layout_width="250dp"
         android:layout_height="250dp"
-        android:src="@drawable/iconebbok" />
+        android:src="@drawable/loadingpage" />
 
 </LinearLayout>
